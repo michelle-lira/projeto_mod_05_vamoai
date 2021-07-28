@@ -1,2 +1,3 @@
-# projeto_mod_05_vamoai
-Projeto final do módulo 05 da formação Analista de Dados #VamoAI | Ifood &amp; Resilia Educação
+# Projeto do módulo 05: Talk is cheap. Show me the data!
+
+Último projeto da formação Analista de Dados #VamoAI | Ifood & Resilia Educação
