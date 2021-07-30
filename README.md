@@ -44,7 +44,7 @@ Construí um com meus dados do iFood, como extra.
 ### Michelle Lira | Análise dos Dados do Spotify:
 ![**Link do perfil no Tableau Public**](https://public.tableau.com/views/projeto_mod_05_vamoai/projeto_5?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Spotify - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Spotify-Michelle.png)
+![Dashboard Spotify - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dash-spotify-Michelle.png)
 
 
 ### Michelle Lira | Análise dos Dados do iFood:
