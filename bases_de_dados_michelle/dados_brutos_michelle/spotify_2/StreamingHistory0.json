@@ -1,0 +1,4076 @@
+[
+  {
+    "endTime" : "2021-03-29 01:14",
+    "artistName" : "Birdtalker",
+    "trackName" : "Ankle Bone",
+    "msPlayed" : 50403
+  },
+  {
+    "endTime" : "2021-03-29 01:20",
+    "artistName" : "Low Roar",
+    "trackName" : "Easy Way Out",
+    "msPlayed" : 43850
+  },
+  {
+    "endTime" : "2021-03-29 01:20",
+    "artistName" : "Low Roar",
+    "trackName" : "I'll Keep Coming",
+    "msPlayed" : 352346
+  },
+  {
+    "endTime" : "2021-04-05 20:43",
+    "artistName" : "Ana Santos",
+    "trackName" : "Pintinho amarelinho",
+    "msPlayed" : 7466
+  },
+  {
+    "endTime" : "2021-04-05 20:45",
+    "artistName" : "Virtual Orchestra",
+    "trackName" : "Bobeou, Dançou",
+    "msPlayed" : 23070
+  },
+  {
+    "endTime" : "2021-04-05 20:46",
+    "artistName" : "Aline Romeiro",
+    "trackName" : "Brilha, Brilha Estrelinha",
+    "msPlayed" : 94960
+  },
+  {
+    "endTime" : "2021-04-05 20:49",
+    "artistName" : "Aline Romeiro",
+    "trackName" : "Alecrim",
+    "msPlayed" : 132853
+  },
+  {
+    "endTime" : "2021-04-05 20:51",
+    "artistName" : "Simone Vioto",
+    "trackName" : "Mãezinha do Céu",
+    "msPlayed" : 158106
+  },
+  {
+    "endTime" : "2021-04-05 20:55",
+    "artistName" : "Isadora Canto",
+    "trackName" : "Pra Te Fazer Dormir",
+    "msPlayed" : 204000
+  },
+  {
+    "endTime" : "2021-04-05 20:56",
+    "artistName" : "A Rainha De Cantigas De Roda",
+    "trackName" : "Se Essa Rua Fosse Minha",
+    "msPlayed" : 72500
+  },
+  {
+    "endTime" : "2021-04-05 20:59",
+    "artistName" : "Vera Lucia",
+    "trackName" : "Dorme Neném",
+    "msPlayed" : 176226
+  },
+  {
+    "endTime" : "2021-04-05 21:00",
+    "artistName" : "Hélio Ziskind",
+    "trackName" : "Boi da Cara Preta",
+    "msPlayed" : 101320
+  },
+  {
+    "endTime" : "2021-04-05 21:02",
+    "artistName" : "Bia Bedran",
+    "trackName" : "Dorme Menina",
+    "msPlayed" : 98049
+  },
+  {
+    "endTime" : "2021-04-13 15:51",
+    "artistName" : "Céu",
+    "trackName" : "Pot-Pourri: Fffree / Falta de Ar - Ao Vivo",
+    "msPlayed" : 667399
+  },
+  {
+    "endTime" : "2021-04-13 15:55",
+    "artistName" : "Céu",
+    "trackName" : "Amor de Antigos - Ao Vivo",
+    "msPlayed" : 224826
+  },
+  {
+    "endTime" : "2021-04-13 15:59",
+    "artistName" : "Céu",
+    "trackName" : "Contravento - Ao Vivo",
+    "msPlayed" : 273480
+  },
+  {
+    "endTime" : "2021-04-13 16:03",
+    "artistName" : "Céu",
+    "trackName" : "Comadi - Ao Vivo",
+    "msPlayed" : 198906
+  },
+  {
+    "endTime" : "2021-04-13 16:07",
+    "artistName" : "Céu",
+    "trackName" : "Retrovisor - Ao Vivo",
+    "msPlayed" : 250560
+  },
+  {
+    "endTime" : "2021-04-13 16:11",
+    "artistName" : "Céu",
+    "trackName" : "Teju Na Estrada (Instrumental) - Ao Vivo",
+    "msPlayed" : 246133
+  },
+  {
+    "endTime" : "2021-04-13 16:17",
+    "artistName" : "Céu",
+    "trackName" : "Pot-Pourri: Sereia / Grains de Beauté - Ao Vivo",
+    "msPlayed" : 395054
+  },
+  {
+    "endTime" : "2021-04-13 16:23",
+    "artistName" : "Céu",
+    "trackName" : "Streets Bloom - Ao Vivo",
+    "msPlayed" : 322120
+  },
+  {
+    "endTime" : "2021-04-13 16:29",
+    "artistName" : "Céu",
+    "trackName" : "Cangote - Ao Vivo",
+    "msPlayed" : 354466
+  },
+  {
+    "endTime" : "2021-04-13 16:33",
+    "artistName" : "Céu",
+    "trackName" : "Piel Canela - Ao Vivo",
+    "msPlayed" : 232733
+  },
+  {
+    "endTime" : "2021-04-13 16:38",
+    "artistName" : "Céu",
+    "trackName" : "Mil e uma Noites de Amor - Ao Vivo",
+    "msPlayed" : 300546
+  },
+  {
+    "endTime" : "2021-04-13 16:41",
+    "artistName" : "Céu",
+    "trackName" : "10 Contados - Ao Vivo",
+    "msPlayed" : 206720
+  },
+  {
+    "endTime" : "2021-04-13 16:44",
+    "artistName" : "Céu",
+    "trackName" : "Baile de Ilusão - Ao Vivo",
+    "msPlayed" : 176422
+  },
+  {
+    "endTime" : "2021-04-13 16:44",
+    "artistName" : "Christ Community Church",
+    "trackName" : "Storm Strong",
+    "msPlayed" : 29648
+  },
+  {
+    "endTime" : "2021-04-13 18:15",
+    "artistName" : "Relaxing White Noise",
+    "trackName" : "Stormy Night Rain & Thunder | Peaceful Rainstorm White Noise for Studying or Sleep",
+    "msPlayed" : 5422108
+  },
+  {
+    "endTime" : "2021-04-16 02:52",
+    "artistName" : "Franz Ferdinand",
+    "trackName" : "Take Me Out",
+    "msPlayed" : 237026
+  },
+  {
+    "endTime" : "2021-04-16 02:55",
+    "artistName" : "The Neighbourhood",
+    "trackName" : "Scary Love",
+    "msPlayed" : 222666
+  },
+  {
+    "endTime" : "2021-04-16 02:59",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No Buses",
+    "msPlayed" : 197320
+  },
+  {
+    "endTime" : "2021-04-16 03:17",
+    "artistName" : "Oasis",
+    "trackName" : "Wonderwall - Remastered",
+    "msPlayed" : 183043
+  },
+  {
+    "endTime" : "2021-04-20 19:23",
+    "artistName" : "Luati",
+    "trackName" : "DNA: Diretrizes de uma Nova Alma",
+    "msPlayed" : 45808
+  },
+  {
+    "endTime" : "2021-04-20 19:26",
+    "artistName" : "Oswaldo Montenegro",
+    "trackName" : "Gueixa",
+    "msPlayed" : 133791
+  },
+  {
+    "endTime" : "2021-04-20 19:28",
+    "artistName" : "Antonia Medeiros",
+    "trackName" : "Pro Gui",
+    "msPlayed" : 127742
+  },
+  {
+    "endTime" : "2021-04-20 19:29",
+    "artistName" : "Pierre Henry",
+    "trackName" : "Intérieur / Extérieur: 11. Agitation",
+    "msPlayed" : 42534
+  },
+  {
+    "endTime" : "2021-04-20 19:32",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fluorescent Adolescent",
+    "msPlayed" : 183893
+  },
+  {
+    "endTime" : "2021-04-20 19:37",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Do I Wanna Know?",
+    "msPlayed" : 272394
+  },
+  {
+    "endTime" : "2021-04-20 19:40",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Arabella",
+    "msPlayed" : 207356
+  },
+  {
+    "endTime" : "2021-04-20 19:43",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Why'd You Only Call Me When You're High?",
+    "msPlayed" : 161123
+  },
+  {
+    "endTime" : "2021-04-20 19:47",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No. 1 Party Anthem",
+    "msPlayed" : 243131
+  },
+  {
+    "endTime" : "2021-04-20 19:50",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Snap Out Of It",
+    "msPlayed" : 193030
+  },
+  {
+    "endTime" : "2021-04-20 19:53",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Mardy Bum",
+    "msPlayed" : 175440
+  },
+  {
+    "endTime" : "2021-04-20 19:56",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "When The Sun Goes Down",
+    "msPlayed" : 202133
+  },
+  {
+    "endTime" : "2021-04-20 19:59",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fake Tales Of San Francisco",
+    "msPlayed" : 177946
+  },
+  {
+    "endTime" : "2021-04-20 20:00",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Dancing Shoes",
+    "msPlayed" : 38531
+  },
+  {
+    "endTime" : "2021-04-23 21:01",
+    "artistName" : "Vitão",
+    "trackName" : "Café",
+    "msPlayed" : 190434
+  },
+  {
+    "endTime" : "2021-04-23 21:04",
+    "artistName" : "Vitão",
+    "trackName" : "Edredom",
+    "msPlayed" : 172700
+  },
+  {
+    "endTime" : "2021-04-23 21:06",
+    "artistName" : "Vitão",
+    "trackName" : "Pensa",
+    "msPlayed" : 140200
+  },
+  {
+    "endTime" : "2021-04-23 21:14",
+    "artistName" : "Vitão",
+    "trackName" : "Caderninho",
+    "msPlayed" : 434190
+  },
+  {
+    "endTime" : "2021-04-23 21:18",
+    "artistName" : "Vitão",
+    "trackName" : "Embrasa",
+    "msPlayed" : 236861
+  },
+  {
+    "endTime" : "2021-04-23 21:21",
+    "artistName" : "BIN",
+    "trackName" : "Saturno",
+    "msPlayed" : 186947
+  },
+  {
+    "endTime" : "2021-04-23 23:36",
+    "artistName" : "BIN",
+    "trackName" : "Quase uma Semana",
+    "msPlayed" : 59976
+  },
+  {
+    "endTime" : "2021-04-25 21:01",
+    "artistName" : "Altamira",
+    "trackName" : "Acústico Altamira #13 - Amor",
+    "msPlayed" : 128578
+  },
+  {
+    "endTime" : "2021-04-25 21:05",
+    "artistName" : "Orgânico",
+    "trackName" : "Dizeres",
+    "msPlayed" : 257645
+  },
+  {
+    "endTime" : "2021-04-25 21:08",
+    "artistName" : "Agnes Nunes",
+    "trackName" : "Cida",
+    "msPlayed" : 186000
+  },
+  {
+    "endTime" : "2021-04-25 21:13",
+    "artistName" : "BIN",
+    "trackName" : "Quase uma Semana",
+    "msPlayed" : 259672
+  },
+  {
+    "endTime" : "2021-04-25 21:15",
+    "artistName" : "Teto",
+    "trackName" : "M4",
+    "msPlayed" : 170000
+  },
+  {
+    "endTime" : "2021-04-25 21:19",
+    "artistName" : "Orochi",
+    "trackName" : "Amor de Fim de Noite",
+    "msPlayed" : 221142
+  },
+  {
+    "endTime" : "2021-04-25 21:23",
+    "artistName" : "OIK",
+    "trackName" : "Pedaço de Mim",
+    "msPlayed" : 202318
+  },
+  {
+    "endTime" : "2021-04-25 21:25",
+    "artistName" : "Nandx710",
+    "trackName" : "Meu Lado da História",
+    "msPlayed" : 151896
+  },
+  {
+    "endTime" : "2021-04-25 21:29",
+    "artistName" : "Djonga",
+    "trackName" : "LEAL",
+    "msPlayed" : 212650
+  },
+  {
+    "endTime" : "2021-04-25 21:33",
+    "artistName" : "Papatinho",
+    "trackName" : "Sem convite (feat. MODÉ$TIA, MC Cabelinho e Yoka)",
+    "msPlayed" : 247701
+  },
+  {
+    "endTime" : "2021-04-25 23:39",
+    "artistName" : "Luiz Lins",
+    "trackName" : "Saudade",
+    "msPlayed" : 53660
+  },
+  {
+    "endTime" : "2021-05-01 17:43",
+    "artistName" : "SÓ AS BRABA Records",
+    "trackName" : "Sigilo",
+    "msPlayed" : 110134
+  },
+  {
+    "endTime" : "2021-05-01 17:50",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica 10: Recomeçar",
+    "msPlayed" : 429084
+  },
+  {
+    "endTime" : "2021-05-01 17:54",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-05-01 17:57",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Ela É Gostosa Pra Caralho",
+    "msPlayed" : 183213
+  },
+  {
+    "endTime" : "2021-05-01 18:00",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-05-01 18:02",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 142500
+  },
+  {
+    "endTime" : "2021-05-01 18:07",
+    "artistName" : "L7NNON",
+    "trackName" : "Berenice (Papasessions #6) [feat. CALIFFA]",
+    "msPlayed" : 301546
+  },
+  {
+    "endTime" : "2021-05-01 18:14",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica - Paris",
+    "msPlayed" : 420000
+  },
+  {
+    "endTime" : "2021-05-01 18:25",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #8: Amor e Samba",
+    "msPlayed" : 614615
+  },
+  {
+    "endTime" : "2021-05-01 18:29",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 275000
+  },
+  {
+    "endTime" : "2021-05-01 18:33",
+    "artistName" : "Luccas Carlos",
+    "trackName" : "Incomum - Ao Vivo",
+    "msPlayed" : 242291
+  },
+  {
+    "endTime" : "2021-05-01 18:37",
+    "artistName" : "Vitão",
+    "trackName" : "Romeu E Julieta",
+    "msPlayed" : 208799
+  },
+  {
+    "endTime" : "2021-05-01 18:40",
+    "artistName" : "Malibu",
+    "trackName" : "Se Prepara",
+    "msPlayed" : 182415
+  },
+  {
+    "endTime" : "2021-05-01 18:43",
+    "artistName" : "Xamã",
+    "trackName" : "Uma Linda Mulher",
+    "msPlayed" : 208000
+  },
+  {
+    "endTime" : "2021-05-01 18:47",
+    "artistName" : "Orochi",
+    "trackName" : "Na Onda",
+    "msPlayed" : 199384
+  },
+  {
+    "endTime" : "2021-05-01 18:52",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Ilusão",
+    "msPlayed" : 112152
+  },
+  {
+    "endTime" : "2021-05-01 19:01",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 420203
+  },
+  {
+    "endTime" : "2021-05-01 19:04",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-05-01 19:07",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-05-01 19:39",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 380249
+  },
+  {
+    "endTime" : "2021-05-02 14:22",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Como Só Você no Mundo",
+    "msPlayed" : 145454
+  },
+  {
+    "endTime" : "2021-05-02 14:24",
+    "artistName" : "Chris MC",
+    "trackName" : "Tchau",
+    "msPlayed" : 123789
+  },
+  {
+    "endTime" : "2021-05-02 14:59",
+    "artistName" : "Djonga",
+    "trackName" : "VOZ",
+    "msPlayed" : 7259
+  },
+  {
+    "endTime" : "2021-05-08 14:36",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-05-08 14:39",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Ela É Gostosa Pra Caralho",
+    "msPlayed" : 183213
+  },
+  {
+    "endTime" : "2021-05-08 14:42",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-05-08 14:45",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 142500
+  },
+  {
+    "endTime" : "2021-05-08 14:50",
+    "artistName" : "L7NNON",
+    "trackName" : "Berenice (Papasessions #6) [feat. CALIFFA]",
+    "msPlayed" : 301546
+  },
+  {
+    "endTime" : "2021-05-08 14:57",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica - Paris",
+    "msPlayed" : 420000
+  },
+  {
+    "endTime" : "2021-05-08 16:17",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #8: Amor e Samba",
+    "msPlayed" : 248267
+  },
+  {
+    "endTime" : "2021-05-09 17:57",
+    "artistName" : "Malibu",
+    "trackName" : "Onde Você Mora",
+    "msPlayed" : 253354
+  },
+  {
+    "endTime" : "2021-05-09 18:00",
+    "artistName" : "Guga Nandes",
+    "trackName" : "Presentinho - Ao Vivo",
+    "msPlayed" : 212530
+  },
+  {
+    "endTime" : "2021-05-09 18:02",
+    "artistName" : "DONATTO",
+    "trackName" : "Só Você",
+    "msPlayed" : 133000
+  },
+  {
+    "endTime" : "2021-05-09 18:06",
+    "artistName" : "Agnes Nunes",
+    "trackName" : "Lisboa",
+    "msPlayed" : 181413
+  },
+  {
+    "endTime" : "2021-05-09 18:09",
+    "artistName" : "Pk",
+    "trackName" : "Barcelona (Papasessions #2)",
+    "msPlayed" : 223200
+  },
+  {
+    "endTime" : "2021-05-09 18:13",
+    "artistName" : "Malibu",
+    "trackName" : "Nunca Encontrei",
+    "msPlayed" : 229250
+  },
+  {
+    "endTime" : "2021-05-09 18:18",
+    "artistName" : "3030",
+    "trackName" : "Mundo de Ilusões 2012",
+    "msPlayed" : 281215
+  },
+  {
+    "endTime" : "2021-05-09 20:19",
+    "artistName" : "Cynthia Luz",
+    "trackName" : "Como Deus Quiser",
+    "msPlayed" : 93416
+  },
+  {
+    "endTime" : "2021-05-25 01:32",
+    "artistName" : "Stone Temple Pilots",
+    "trackName" : "Trippin' on a Hole in a Paper Heart",
+    "msPlayed" : 24063
+  },
+  {
+    "endTime" : "2021-06-01 01:30",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-01 01:33",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Ela É Gostosa Pra Caralho",
+    "msPlayed" : 183213
+  },
+  {
+    "endTime" : "2021-06-01 01:36",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-01 01:38",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 142500
+  },
+  {
+    "endTime" : "2021-06-01 01:43",
+    "artistName" : "L7NNON",
+    "trackName" : "Berenice (Papasessions #6) [feat. CALIFFA]",
+    "msPlayed" : 301546
+  },
+  {
+    "endTime" : "2021-06-01 01:50",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica - Paris",
+    "msPlayed" : 420000
+  },
+  {
+    "endTime" : "2021-06-01 02:01",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #8: Amor e Samba",
+    "msPlayed" : 614615
+  },
+  {
+    "endTime" : "2021-06-01 02:05",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 275000
+  },
+  {
+    "endTime" : "2021-06-01 02:09",
+    "artistName" : "Luccas Carlos",
+    "trackName" : "Incomum - Ao Vivo",
+    "msPlayed" : 242291
+  },
+  {
+    "endTime" : "2021-06-01 02:13",
+    "artistName" : "Vitão",
+    "trackName" : "Romeu E Julieta",
+    "msPlayed" : 208799
+  },
+  {
+    "endTime" : "2021-06-01 02:16",
+    "artistName" : "Malibu",
+    "trackName" : "Se Prepara",
+    "msPlayed" : 182415
+  },
+  {
+    "endTime" : "2021-06-01 02:19",
+    "artistName" : "Xamã",
+    "trackName" : "Uma Linda Mulher",
+    "msPlayed" : 208000
+  },
+  {
+    "endTime" : "2021-06-01 02:23",
+    "artistName" : "Orochi",
+    "trackName" : "Na Onda",
+    "msPlayed" : 199384
+  },
+  {
+    "endTime" : "2021-06-01 02:26",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Ilusão",
+    "msPlayed" : 217731
+  },
+  {
+    "endTime" : "2021-06-01 02:29",
+    "artistName" : "Budah",
+    "trackName" : "Estar Com Você",
+    "msPlayed" : 180000
+  },
+  {
+    "endTime" : "2021-06-01 02:33",
+    "artistName" : "Kiaz",
+    "trackName" : "Cê Tá Bem",
+    "msPlayed" : 200000
+  },
+  {
+    "endTime" : "2021-06-01 03:10",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 24372
+  },
+  {
+    "endTime" : "2021-06-01 04:03",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 162803
+  },
+  {
+    "endTime" : "2021-06-01 04:07",
+    "artistName" : "Djonga",
+    "trackName" : "LEAL",
+    "msPlayed" : 212650
+  },
+  {
+    "endTime" : "2021-06-01 04:10",
+    "artistName" : "BK",
+    "trackName" : "Planos",
+    "msPlayed" : 219334
+  },
+  {
+    "endTime" : "2021-06-01 04:25",
+    "artistName" : "Dfideliz",
+    "trackName" : "Mulher",
+    "msPlayed" : 38932
+  },
+  {
+    "endTime" : "2021-06-03 10:07",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 621321
+  },
+  {
+    "endTime" : "2021-06-03 10:10",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Ela É Gostosa Pra Caralho",
+    "msPlayed" : 183213
+  },
+  {
+    "endTime" : "2021-06-03 10:13",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-03 10:16",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 133047
+  },
+  {
+    "endTime" : "2021-06-03 10:19",
+    "artistName" : "L7NNON",
+    "trackName" : "Berenice (Papasessions #6) [feat. CALIFFA]",
+    "msPlayed" : 215701
+  },
+  {
+    "endTime" : "2021-06-03 10:21",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica - Paris",
+    "msPlayed" : 71481
+  },
+  {
+    "endTime" : "2021-06-03 10:32",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #8: Amor e Samba",
+    "msPlayed" : 442495
+  },
+  {
+    "endTime" : "2021-06-03 11:53",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 275000
+  },
+  {
+    "endTime" : "2021-06-03 11:57",
+    "artistName" : "Luccas Carlos",
+    "trackName" : "Incomum - Ao Vivo",
+    "msPlayed" : 242291
+  },
+  {
+    "endTime" : "2021-06-03 12:01",
+    "artistName" : "Vitão",
+    "trackName" : "Romeu E Julieta",
+    "msPlayed" : 208799
+  },
+  {
+    "endTime" : "2021-06-03 12:03",
+    "artistName" : "Malibu",
+    "trackName" : "Se Prepara",
+    "msPlayed" : 131996
+  },
+  {
+    "endTime" : "2021-06-03 12:04",
+    "artistName" : "Xamã",
+    "trackName" : "Uma Linda Mulher",
+    "msPlayed" : 82527
+  },
+  {
+    "endTime" : "2021-06-03 12:05",
+    "artistName" : "Orochi",
+    "trackName" : "Na Onda",
+    "msPlayed" : 66430
+  },
+  {
+    "endTime" : "2021-06-03 12:10",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-03 12:13",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-06-03 12:17",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-06-03 12:17",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 1215
+  },
+  {
+    "endTime" : "2021-06-03 12:17",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 15169
+  },
+  {
+    "endTime" : "2021-06-03 12:22",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 114773
+  },
+  {
+    "endTime" : "2021-06-06 00:42",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 18175
+  },
+  {
+    "endTime" : "2021-06-06 00:46",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-06 00:49",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-06 00:50",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 93520
+  },
+  {
+    "endTime" : "2021-06-06 00:54",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-06 00:57",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-06 01:01",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-06 01:05",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-06-06 01:07",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-06-06 01:12",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-06 01:15",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-06-06 01:19",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-06-06 01:22",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-06 01:26",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-06-06 01:30",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-06 01:33",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 962
+  },
+  {
+    "endTime" : "2021-06-06 01:33",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-06 01:33",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 6110
+  },
+  {
+    "endTime" : "2021-06-06 01:36",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-06 01:40",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-06 01:48",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-06 01:52",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-06-06 01:54",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-06-06 01:58",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-06 02:00",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 45290
+  },
+  {
+    "endTime" : "2021-06-06 02:02",
+    "artistName" : "Mc Poze do Rodo",
+    "trackName" : "A Cara do Crime (Nós Incomoda)",
+    "msPlayed" : 126624
+  },
+  {
+    "endTime" : "2021-06-06 02:27",
+    "artistName" : "Tz da Coronel",
+    "trackName" : "Anota Placa",
+    "msPlayed" : 147274
+  },
+  {
+    "endTime" : "2021-06-08 01:36",
+    "artistName" : "Vitão",
+    "trackName" : "Chamego",
+    "msPlayed" : 31573
+  },
+  {
+    "endTime" : "2021-06-08 22:24",
+    "artistName" : "slsd",
+    "trackName" : "Cara Amarrada",
+    "msPlayed" : 51669
+  },
+  {
+    "endTime" : "2021-06-10 20:54",
+    "artistName" : "slsd",
+    "trackName" : "Cara Amarrada",
+    "msPlayed" : 165500
+  },
+  {
+    "endTime" : "2021-06-10 20:56",
+    "artistName" : "slsd",
+    "trackName" : "Cruzeiros",
+    "msPlayed" : 83644
+  },
+  {
+    "endTime" : "2021-06-12 19:22",
+    "artistName" : "BK",
+    "trackName" : "Planos",
+    "msPlayed" : 13055
+  },
+  {
+    "endTime" : "2021-06-12 19:24",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 142500
+  },
+  {
+    "endTime" : "2021-06-12 19:25",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 58556
+  },
+  {
+    "endTime" : "2021-06-12 19:28",
+    "artistName" : "Vitão",
+    "trackName" : "Chamego",
+    "msPlayed" : 157894
+  },
+  {
+    "endTime" : "2021-06-12 19:30",
+    "artistName" : "Vitão",
+    "trackName" : "Pensa",
+    "msPlayed" : 140200
+  },
+  {
+    "endTime" : "2021-06-12 19:31",
+    "artistName" : "Leo Santana",
+    "trackName" : "SAMU",
+    "msPlayed" : 30496
+  },
+  {
+    "endTime" : "2021-06-12 19:33",
+    "artistName" : "Vitão",
+    "trackName" : "CALIFORNIA / Citação: De Repente California",
+    "msPlayed" : 149054
+  },
+  {
+    "endTime" : "2021-06-12 19:36",
+    "artistName" : "Vitão",
+    "trackName" : "Flores",
+    "msPlayed" : 155798
+  },
+  {
+    "endTime" : "2021-06-12 19:38",
+    "artistName" : "Carol Biazin",
+    "trackName" : "Sempre Que Der",
+    "msPlayed" : 151698
+  },
+  {
+    "endTime" : "2021-06-12 19:41",
+    "artistName" : "Vitão",
+    "trackName" : "Um Pouco De Você",
+    "msPlayed" : 162866
+  },
+  {
+    "endTime" : "2021-06-12 19:43",
+    "artistName" : "Vitão",
+    "trackName" : "Pensa",
+    "msPlayed" : 140200
+  },
+  {
+    "endTime" : "2021-06-12 19:47",
+    "artistName" : "Vitão",
+    "trackName" : "Tratamento Perfeito",
+    "msPlayed" : 214572
+  },
+  {
+    "endTime" : "2021-06-12 19:49",
+    "artistName" : "Vitão",
+    "trackName" : "Maturidade",
+    "msPlayed" : 156587
+  },
+  {
+    "endTime" : "2021-06-12 19:52",
+    "artistName" : "Vitão",
+    "trackName" : "Calma",
+    "msPlayed" : 169640
+  },
+  {
+    "endTime" : "2021-06-12 19:55",
+    "artistName" : "Vitão",
+    "trackName" : "Saudade",
+    "msPlayed" : 180200
+  },
+  {
+    "endTime" : "2021-06-12 19:59",
+    "artistName" : "Vitão",
+    "trackName" : "Romeu E Julieta",
+    "msPlayed" : 208799
+  },
+  {
+    "endTime" : "2021-06-12 20:01",
+    "artistName" : "Vitão",
+    "trackName" : "Flores",
+    "msPlayed" : 155798
+  },
+  {
+    "endTime" : "2021-06-12 20:04",
+    "artistName" : "Vitão",
+    "trackName" : "7 Chamadas",
+    "msPlayed" : 173914
+  },
+  {
+    "endTime" : "2021-06-12 20:07",
+    "artistName" : "Vitão",
+    "trackName" : "Complicado",
+    "msPlayed" : 179339
+  },
+  {
+    "endTime" : "2021-06-12 20:10",
+    "artistName" : "Vitão",
+    "trackName" : "Mais Tarde",
+    "msPlayed" : 169060
+  },
+  {
+    "endTime" : "2021-06-12 20:12",
+    "artistName" : "Vitão",
+    "trackName" : "Alô",
+    "msPlayed" : 126787
+  },
+  {
+    "endTime" : "2021-06-14 02:18",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 61
+  },
+  {
+    "endTime" : "2021-06-14 02:18",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 130702
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 994
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 1885
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 23
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 712
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 340
+  },
+  {
+    "endTime" : "2021-06-14 02:20",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 2851
+  },
+  {
+    "endTime" : "2021-06-14 02:24",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-14 02:25",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 64767
+  },
+  {
+    "endTime" : "2021-06-14 02:29",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-14 02:30",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 107684
+  },
+  {
+    "endTime" : "2021-06-14 02:34",
+    "artistName" : "Criolo",
+    "trackName" : "Sistema Obtuso",
+    "msPlayed" : 199130
+  },
+  {
+    "endTime" : "2021-06-14 03:46",
+    "artistName" : "Froid",
+    "trackName" : "Teoria do Ciclo da Água",
+    "msPlayed" : 46556
+  },
+  {
+    "endTime" : "2021-06-14 11:30",
+    "artistName" : "Criolo",
+    "trackName" : "Sistema Obtuso",
+    "msPlayed" : 199130
+  },
+  {
+    "endTime" : "2021-06-14 11:33",
+    "artistName" : "Froid",
+    "trackName" : "Teoria do Ciclo da Água",
+    "msPlayed" : 180437
+  },
+  {
+    "endTime" : "2021-06-14 11:36",
+    "artistName" : "Marcelo D2",
+    "trackName" : "Você Diz Que O Amor Não Dói",
+    "msPlayed" : 172466
+  },
+  {
+    "endTime" : "2021-06-14 11:41",
+    "artistName" : "Mano Brown",
+    "trackName" : "Dance, Dance, Dance",
+    "msPlayed" : 267146
+  },
+  {
+    "endTime" : "2021-06-14 11:49",
+    "artistName" : "MC Hariel",
+    "trackName" : "Ilusão (Cracolândia)",
+    "msPlayed" : 373276
+  },
+  {
+    "endTime" : "2021-06-14 11:53",
+    "artistName" : "Edi Rock",
+    "trackName" : "Uq Cê Vai Fazer",
+    "msPlayed" : 196000
+  },
+  {
+    "endTime" : "2021-06-14 11:57",
+    "artistName" : "Edi Rock",
+    "trackName" : "Corre Neguin",
+    "msPlayed" : 255005
+  },
+  {
+    "endTime" : "2021-06-14 12:00",
+    "artistName" : "Djonga",
+    "trackName" : "LEAL",
+    "msPlayed" : 212650
+  },
+  {
+    "endTime" : "2021-06-14 12:06",
+    "artistName" : "Emicida",
+    "trackName" : "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+    "msPlayed" : 320800
+  },
+  {
+    "endTime" : "2021-06-14 12:08",
+    "artistName" : "Emicida",
+    "trackName" : "Levanta e Anda",
+    "msPlayed" : 150439
+  },
+  {
+    "endTime" : "2021-06-14 12:14",
+    "artistName" : "Emicida",
+    "trackName" : "Cananéia, Iguape e Ilha Comprida",
+    "msPlayed" : 335600
+  },
+  {
+    "endTime" : "2021-06-14 12:18",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Invicto",
+    "msPlayed" : 256988
+  },
+  {
+    "endTime" : "2021-06-14 12:20",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 135098
+  },
+  {
+    "endTime" : "2021-06-14 12:25",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Invicto",
+    "msPlayed" : 256988
+  },
+  {
+    "endTime" : "2021-06-14 12:29",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-14 12:33",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-06-14 12:38",
+    "artistName" : "Don L",
+    "trackName" : "Aquela Fé",
+    "msPlayed" : 320824
+  },
+  {
+    "endTime" : "2021-06-14 12:39",
+    "artistName" : "Kreepa",
+    "trackName" : "Oh No",
+    "msPlayed" : 29882
+  },
+  {
+    "endTime" : "2021-06-14 12:43",
+    "artistName" : "Criolo",
+    "trackName" : "Zica Vai Lá - Live",
+    "msPlayed" : 238346
+  },
+  {
+    "endTime" : "2021-06-14 12:46",
+    "artistName" : "Emicida",
+    "trackName" : "Dedo Na Ferida - Live",
+    "msPlayed" : 226160
+  },
+  {
+    "endTime" : "2021-06-14 12:49",
+    "artistName" : "Emicida",
+    "trackName" : "Rua Augusta - Live",
+    "msPlayed" : 177560
+  },
+  {
+    "endTime" : "2021-06-14 12:54",
+    "artistName" : "Criolo",
+    "trackName" : "Mariô - Live",
+    "msPlayed" : 267480
+  },
+  {
+    "endTime" : "2021-06-14 12:57",
+    "artistName" : "Criolo",
+    "trackName" : "Subirusdoistiozin - Live",
+    "msPlayed" : 211280
+  },
+  {
+    "endTime" : "2021-06-14 13:01",
+    "artistName" : "Criolo",
+    "trackName" : "Demorô - Live",
+    "msPlayed" : 213773
+  },
+  {
+    "endTime" : "2021-06-14 13:05",
+    "artistName" : "Criolo",
+    "trackName" : "Viva (Melô Dos Vileiros) - Live",
+    "msPlayed" : 213960
+  },
+  {
+    "endTime" : "2021-06-14 13:08",
+    "artistName" : "Criolo",
+    "trackName" : "Só Mais Uma Noite - Live",
+    "msPlayed" : 188666
+  },
+  {
+    "endTime" : "2021-06-14 13:14",
+    "artistName" : "Criolo",
+    "trackName" : "Não Existe Amor Em SP - Live",
+    "msPlayed" : 392480
+  },
+  {
+    "endTime" : "2021-06-14 13:18",
+    "artistName" : "Criolo",
+    "trackName" : "Linha De Frente - Live",
+    "msPlayed" : 240373
+  },
+  {
+    "endTime" : "2021-06-14 13:22",
+    "artistName" : "Criolo",
+    "trackName" : "A Cada Vento - Live",
+    "msPlayed" : 243373
+  },
+  {
+    "endTime" : "2021-06-14 13:27",
+    "artistName" : "Emicida",
+    "trackName" : "Outras Palavras - Live",
+    "msPlayed" : 294813
+  },
+  {
+    "endTime" : "2021-06-14 13:31",
+    "artistName" : "Criolo",
+    "trackName" : "Lion Man - Live",
+    "msPlayed" : 247680
+  },
+  {
+    "endTime" : "2021-06-14 13:35",
+    "artistName" : "Criolo",
+    "trackName" : "Grajauex - Live",
+    "msPlayed" : 191453
+  },
+  {
+    "endTime" : "2021-06-14 13:39",
+    "artistName" : "Criolo",
+    "trackName" : "Triunfo - Live",
+    "msPlayed" : 273426
+  },
+  {
+    "endTime" : "2021-06-14 13:41",
+    "artistName" : "Criolo",
+    "trackName" : "Capítulo 4, Versículo 3 - Live",
+    "msPlayed" : 127053
+  },
+  {
+    "endTime" : "2021-06-14 13:46",
+    "artistName" : "Criolo",
+    "trackName" : "Vida Loka I - Live",
+    "msPlayed" : 271840
+  },
+  {
+    "endTime" : "2021-06-14 13:52",
+    "artistName" : "Criolo",
+    "trackName" : "Bogotá - Live",
+    "msPlayed" : 369773
+  },
+  {
+    "endTime" : "2021-06-14 13:58",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-06-14 14:01",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-14 14:05",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-06-14 14:09",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-14 14:12",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-14 14:15",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-14 14:19",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-06-14 14:21",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-06-14 14:28",
+    "artistName" : "BIN",
+    "trackName" : "Apê 1001",
+    "msPlayed" : 171428
+  },
+  {
+    "endTime" : "2021-06-14 14:33",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 275000
+  },
+  {
+    "endTime" : "2021-06-14 14:37",
+    "artistName" : "Papatinho",
+    "trackName" : "Traje de Verão (feat. Péricles)",
+    "msPlayed" : 43451
+  },
+  {
+    "endTime" : "2021-06-14 14:40",
+    "artistName" : "Xamã",
+    "trackName" : "De Novo",
+    "msPlayed" : 145617
+  },
+  {
+    "endTime" : "2021-06-14 14:43",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Ilusão",
+    "msPlayed" : 217731
+  },
+  {
+    "endTime" : "2021-06-14 14:46",
+    "artistName" : "Mc Poze do Rodo",
+    "trackName" : "Vida Louca",
+    "msPlayed" : 155675
+  },
+  {
+    "endTime" : "2021-06-14 14:48",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Corte Americano",
+    "msPlayed" : 139534
+  },
+  {
+    "endTime" : "2021-06-14 14:50",
+    "artistName" : "Orochi",
+    "trackName" : "Na Onda",
+    "msPlayed" : 105600
+  },
+  {
+    "endTime" : "2021-06-14 16:03",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica 10: Recomeçar",
+    "msPlayed" : 79146
+  },
+  {
+    "endTime" : "2021-06-14 20:42",
+    "artistName" : "Aerosmith",
+    "trackName" : "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+    "msPlayed" : 31442
+  },
+  {
+    "endTime" : "2021-06-14 20:42",
+    "artistName" : "Aerosmith",
+    "trackName" : "Crazy",
+    "msPlayed" : 1198
+  },
+  {
+    "endTime" : "2021-06-14 20:47",
+    "artistName" : "Aerosmith",
+    "trackName" : "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+    "msPlayed" : 299760
+  },
+  {
+    "endTime" : "2021-06-14 20:52",
+    "artistName" : "Aerosmith",
+    "trackName" : "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+    "msPlayed" : 299760
+  },
+  {
+    "endTime" : "2021-06-14 20:57",
+    "artistName" : "Aerosmith",
+    "trackName" : "Crazy",
+    "msPlayed" : 316693
+  },
+  {
+    "endTime" : "2021-06-14 21:02",
+    "artistName" : "Aerosmith",
+    "trackName" : "Cryin'",
+    "msPlayed" : 308333
+  },
+  {
+    "endTime" : "2021-06-14 21:07",
+    "artistName" : "Aerosmith",
+    "trackName" : "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+    "msPlayed" : 298760
+  },
+  {
+    "endTime" : "2021-06-14 21:13",
+    "artistName" : "Aerosmith",
+    "trackName" : "Amazing",
+    "msPlayed" : 356160
+  },
+  {
+    "endTime" : "2021-06-14 21:16",
+    "artistName" : "Aerosmith",
+    "trackName" : "Pink",
+    "msPlayed" : 168775
+  },
+  {
+    "endTime" : "2021-06-14 21:19",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2021-06-14 21:19",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-14 21:22",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-14 21:26",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-14 21:29",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-14 21:32",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 5944
+  },
+  {
+    "endTime" : "2021-06-14 21:32",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-14 21:35",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-06-14 21:39",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-06-14 21:43",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 228631
+  },
+  {
+    "endTime" : "2021-06-14 21:47",
+    "artistName" : "Djonga",
+    "trackName" : "Me dá a Mão",
+    "msPlayed" : 215995
+  },
+  {
+    "endTime" : "2021-06-14 21:50",
+    "artistName" : "Djonga",
+    "trackName" : "Vírgula",
+    "msPlayed" : 191376
+  },
+  {
+    "endTime" : "2021-06-14 21:54",
+    "artistName" : "Djonga",
+    "trackName" : "Ricô",
+    "msPlayed" : 232825
+  },
+  {
+    "endTime" : "2021-06-14 21:58",
+    "artistName" : "Djonga",
+    "trackName" : "Dá pra ser?",
+    "msPlayed" : 236523
+  },
+  {
+    "endTime" : "2021-06-14 22:03",
+    "artistName" : "Djonga",
+    "trackName" : "Eu",
+    "msPlayed" : 310375
+  },
+  {
+    "endTime" : "2021-06-14 22:06",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-06-14 22:10",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-06-14 22:14",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 228631
+  },
+  {
+    "endTime" : "2021-06-14 22:17",
+    "artistName" : "Djonga",
+    "trackName" : "Me dá a Mão",
+    "msPlayed" : 215995
+  },
+  {
+    "endTime" : "2021-06-14 22:20",
+    "artistName" : "Djonga",
+    "trackName" : "Vírgula",
+    "msPlayed" : 191376
+  },
+  {
+    "endTime" : "2021-06-14 22:24",
+    "artistName" : "Djonga",
+    "trackName" : "Ricô",
+    "msPlayed" : 232825
+  },
+  {
+    "endTime" : "2021-06-14 22:28",
+    "artistName" : "Djonga",
+    "trackName" : "Dá pra ser?",
+    "msPlayed" : 236523
+  },
+  {
+    "endTime" : "2021-06-14 22:33",
+    "artistName" : "Djonga",
+    "trackName" : "Eu",
+    "msPlayed" : 310375
+  },
+  {
+    "endTime" : "2021-06-14 22:37",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-06-14 22:40",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-06-14 22:44",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-14 22:48",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 2156
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 2230
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 706
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 2531
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Me dá a Mão",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 659
+  },
+  {
+    "endTime" : "2021-06-14 22:52",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 21
+  },
+  {
+    "endTime" : "2021-06-14 22:56",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-14 23:35",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 171052
+  },
+  {
+    "endTime" : "2021-06-15 17:07",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "The View From The Afternoon",
+    "msPlayed" : 81645
+  },
+  {
+    "endTime" : "2021-06-15 17:07",
+    "artistName" : "The Neighbourhood",
+    "trackName" : "Beautiful Oblivion (feat. IDK)",
+    "msPlayed" : 15308
+  },
+  {
+    "endTime" : "2021-06-15 17:07",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No. 1 Party Anthem",
+    "msPlayed" : 8011
+  },
+  {
+    "endTime" : "2021-06-15 17:10",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Only Ones Who Know",
+    "msPlayed" : 184760
+  },
+  {
+    "endTime" : "2021-06-15 17:12",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Riot Van",
+    "msPlayed" : 134933
+  },
+  {
+    "endTime" : "2021-06-15 17:15",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "I Wanna Be Yours",
+    "msPlayed" : 183956
+  },
+  {
+    "endTime" : "2021-06-15 17:19",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Piledriver Waltz",
+    "msPlayed" : 203880
+  },
+  {
+    "endTime" : "2021-06-15 17:23",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Secret Door",
+    "msPlayed" : 223066
+  },
+  {
+    "endTime" : "2021-06-15 17:26",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fluorescent Adolescent",
+    "msPlayed" : 183893
+  },
+  {
+    "endTime" : "2021-06-15 17:29",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Bigger Boys and Stolen Sweethearts",
+    "msPlayed" : 180640
+  },
+  {
+    "endTime" : "2021-06-15 17:31",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Why'd You Only Call Me When You're High?",
+    "msPlayed" : 161123
+  },
+  {
+    "endTime" : "2021-06-15 17:36",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Dance Little Liar",
+    "msPlayed" : 283493
+  },
+  {
+    "endTime" : "2021-06-15 17:41",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Do I Wanna Know?",
+    "msPlayed" : 272394
+  },
+  {
+    "endTime" : "2021-06-15 17:44",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Crying Lightning",
+    "msPlayed" : 224826
+  },
+  {
+    "endTime" : "2021-06-15 17:50",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "A Certain Romance",
+    "msPlayed" : 331200
+  },
+  {
+    "endTime" : "2021-06-15 17:59",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No. 1 Party Anthem",
+    "msPlayed" : 243131
+  },
+  {
+    "endTime" : "2021-06-15 18:02",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Suck It and See",
+    "msPlayed" : 225986
+  },
+  {
+    "endTime" : "2021-06-15 18:06",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fire And The Thud",
+    "msPlayed" : 237533
+  },
+  {
+    "endTime" : "2021-06-15 18:09",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "The Bakery",
+    "msPlayed" : 176520
+  },
+  {
+    "endTime" : "2021-06-15 18:12",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Mardy Bum",
+    "msPlayed" : 175440
+  },
+  {
+    "endTime" : "2021-06-15 18:16",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Snap Out Of It",
+    "msPlayed" : 193030
+  },
+  {
+    "endTime" : "2021-06-15 18:19",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Love is a Laserquest",
+    "msPlayed" : 191426
+  },
+  {
+    "endTime" : "2021-06-15 18:22",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Cornerstone",
+    "msPlayed" : 197973
+  },
+  {
+    "endTime" : "2021-06-15 18:25",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Too Much To Ask",
+    "msPlayed" : 183253
+  },
+  {
+    "endTime" : "2021-06-15 18:28",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No Buses",
+    "msPlayed" : 197320
+  },
+  {
+    "endTime" : "2021-06-15 18:32",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Mad Sounds",
+    "msPlayed" : 215011
+  },
+  {
+    "endTime" : "2021-06-15 18:35",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Reckless Serenade",
+    "msPlayed" : 162746
+  },
+  {
+    "endTime" : "2021-06-15 18:38",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Joining The Dots",
+    "msPlayed" : 199000
+  },
+  {
+    "endTime" : "2021-06-15 18:41",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Only Ones Who Know",
+    "msPlayed" : 184760
+  },
+  {
+    "endTime" : "2021-06-15 18:43",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Riot Van",
+    "msPlayed" : 134933
+  },
+  {
+    "endTime" : "2021-06-15 18:46",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "I Wanna Be Yours",
+    "msPlayed" : 183956
+  },
+  {
+    "endTime" : "2021-06-15 18:50",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Piledriver Waltz",
+    "msPlayed" : 203880
+  },
+  {
+    "endTime" : "2021-06-15 18:54",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Secret Door",
+    "msPlayed" : 223066
+  },
+  {
+    "endTime" : "2021-06-15 18:57",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fluorescent Adolescent",
+    "msPlayed" : 183893
+  },
+  {
+    "endTime" : "2021-06-15 19:00",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Bigger Boys and Stolen Sweethearts",
+    "msPlayed" : 180640
+  },
+  {
+    "endTime" : "2021-06-15 19:02",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Why'd You Only Call Me When You're High?",
+    "msPlayed" : 161123
+  },
+  {
+    "endTime" : "2021-06-15 19:07",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Dance Little Liar",
+    "msPlayed" : 283493
+  },
+  {
+    "endTime" : "2021-06-15 19:12",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Do I Wanna Know?",
+    "msPlayed" : 272394
+  },
+  {
+    "endTime" : "2021-06-15 19:15",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Crying Lightning",
+    "msPlayed" : 224826
+  },
+  {
+    "endTime" : "2021-06-15 19:37",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "A Certain Romance",
+    "msPlayed" : 281960
+  },
+  {
+    "endTime" : "2021-06-16 07:53",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-16 07:57",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 200384
+  },
+  {
+    "endTime" : "2021-06-16 08:10",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 353105
+  },
+  {
+    "endTime" : "2021-06-16 08:14",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-16 08:17",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-16 08:18",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 20283
+  },
+  {
+    "endTime" : "2021-06-16 08:18",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #9: Melhor Forma",
+    "msPlayed" : 21823
+  },
+  {
+    "endTime" : "2021-06-16 08:18",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 2502
+  },
+  {
+    "endTime" : "2021-06-16 08:24",
+    "artistName" : "Djonga",
+    "trackName" : "JUNHO DE 94",
+    "msPlayed" : 329008
+  },
+  {
+    "endTime" : "2021-06-16 08:26",
+    "artistName" : "MC Caverinha",
+    "trackName" : "Meu Corre",
+    "msPlayed" : 170181
+  },
+  {
+    "endTime" : "2021-06-16 08:30",
+    "artistName" : "Djonga",
+    "trackName" : "TIPO",
+    "msPlayed" : 229077
+  },
+  {
+    "endTime" : "2021-06-16 08:34",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-16 08:38",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-06-16 08:43",
+    "artistName" : "Djonga",
+    "trackName" : "UFA",
+    "msPlayed" : 351978
+  },
+  {
+    "endTime" : "2021-06-16 08:47",
+    "artistName" : "Djonga",
+    "trackName" : "LEAL",
+    "msPlayed" : 212650
+  },
+  {
+    "endTime" : "2021-06-16 08:51",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 223892
+  },
+  {
+    "endTime" : "2021-06-16 08:55",
+    "artistName" : "Djonga",
+    "trackName" : "Dá pra ser?",
+    "msPlayed" : 236523
+  },
+  {
+    "endTime" : "2021-06-16 08:58",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-16 09:02",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-16 09:06",
+    "artistName" : "Djonga",
+    "trackName" : "HAT TRICK",
+    "msPlayed" : 258815
+  },
+  {
+    "endTime" : "2021-06-16 09:11",
+    "artistName" : "Djonga",
+    "trackName" : "Eu",
+    "msPlayed" : 332236
+  },
+  {
+    "endTime" : "2021-06-16 09:15",
+    "artistName" : "Djonga",
+    "trackName" : "ETERNO",
+    "msPlayed" : 226389
+  },
+  {
+    "endTime" : "2021-06-16 09:19",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-06-16 09:23",
+    "artistName" : "Djonga",
+    "trackName" : "BENÇA",
+    "msPlayed" : 224255
+  },
+  {
+    "endTime" : "2021-06-16 09:27",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279253
+  },
+  {
+    "endTime" : "2021-06-16 09:31",
+    "artistName" : "Djonga",
+    "trackName" : "1010",
+    "msPlayed" : 237789
+  },
+  {
+    "endTime" : "2021-06-16 09:35",
+    "artistName" : "Djonga",
+    "trackName" : "1010",
+    "msPlayed" : 1038
+  },
+  {
+    "endTime" : "2021-06-16 09:35",
+    "artistName" : "Djonga",
+    "trackName" : "1010",
+    "msPlayed" : 1182
+  },
+  {
+    "endTime" : "2021-06-16 09:35",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 9895
+  },
+  {
+    "endTime" : "2021-06-16 09:35",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 212446
+  },
+  {
+    "endTime" : "2021-06-16 09:35",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 10699
+  },
+  {
+    "endTime" : "2021-06-16 09:39",
+    "artistName" : "Djonga",
+    "trackName" : "Corre das Notas",
+    "msPlayed" : 218282
+  },
+  {
+    "endTime" : "2021-06-16 09:42",
+    "artistName" : "Djonga",
+    "trackName" : "Entre o Código da Espada e o Perfume da Rosa",
+    "msPlayed" : 128213
+  },
+  {
+    "endTime" : "2021-06-16 09:46",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 2174
+  },
+  {
+    "endTime" : "2021-06-16 09:46",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 09:51",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 09:55",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 09:59",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:03",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:08",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:12",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:16",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:21",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:25",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:29",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 256810
+  },
+  {
+    "endTime" : "2021-06-16 10:29",
+    "artistName" : "Djonga",
+    "trackName" : "Esquimó",
+    "msPlayed" : 5711
+  },
+  {
+    "endTime" : "2021-06-16 10:33",
+    "artistName" : "Djonga",
+    "trackName" : "Fantasmas",
+    "msPlayed" : 236586
+  },
+  {
+    "endTime" : "2021-06-16 10:38",
+    "artistName" : "Djonga",
+    "trackName" : "Santa Ceia",
+    "msPlayed" : 279253
+  },
+  {
+    "endTime" : "2021-06-16 10:41",
+    "artistName" : "Djonga",
+    "trackName" : "Verdades Inventadas",
+    "msPlayed" : 173397
+  },
+  {
+    "endTime" : "2021-06-16 10:44",
+    "artistName" : "Djonga",
+    "trackName" : "Geminiano",
+    "msPlayed" : 175317
+  },
+  {
+    "endTime" : "2021-06-16 10:46",
+    "artistName" : "Djonga",
+    "trackName" : "Heresia",
+    "msPlayed" : 167168
+  },
+  {
+    "endTime" : "2021-06-16 10:49",
+    "artistName" : "Djonga",
+    "trackName" : "Irmãos de Arma, Irmãos de Luta",
+    "msPlayed" : 131669
+  },
+  {
+    "endTime" : "2021-06-16 11:28",
+    "artistName" : "Djonga",
+    "trackName" : "O Mundo é Nosso",
+    "msPlayed" : 17809
+  },
+  {
+    "endTime" : "2021-06-16 22:55",
+    "artistName" : "Lana Del Rey",
+    "trackName" : "Norman fucking Rockwell",
+    "msPlayed" : 237909
+  },
+  {
+    "endTime" : "2021-06-19 09:16",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-19 09:20",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-06-19 09:23",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-19 09:26",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 186720
+  },
+  {
+    "endTime" : "2021-06-19 09:30",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-06-19 09:34",
+    "artistName" : "Djonga",
+    "trackName" : "Deus Dará (prod. Coyote Beatz)",
+    "msPlayed" : 228120
+  },
+  {
+    "endTime" : "2021-06-19 09:36",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 9185
+  },
+  {
+    "endTime" : "2021-06-19 09:36",
+    "artistName" : "Djonga",
+    "trackName" : "Amr Sinto Falta da Nssa Ksa (prod. Renan Samam)",
+    "msPlayed" : 136551
+  },
+  {
+    "endTime" : "2021-06-19 09:37",
+    "artistName" : "Baco Exu do Blues",
+    "trackName" : "Me Desculpa Jay Z",
+    "msPlayed" : 19209
+  },
+  {
+    "endTime" : "2021-06-19 09:41",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-06-19 09:44",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-06-19 09:48",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 238026
+  },
+  {
+    "endTime" : "2021-06-19 09:51",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-06-19 09:55",
+    "artistName" : "Djonga",
+    "trackName" : "Gelo (prod. Coyote Beatz)",
+    "msPlayed" : 229088
+  },
+  {
+    "endTime" : "2021-06-19 09:59",
+    "artistName" : "Djonga",
+    "trackName" : "Mania (prod. Coyote Beatz)",
+    "msPlayed" : 25292
+  },
+  {
+    "endTime" : "2021-06-19 09:59",
+    "artistName" : "Djonga",
+    "trackName" : "Hoje Não (prod. Coyote Beatz)",
+    "msPlayed" : 220181
+  },
+  {
+    "endTime" : "2021-06-21 21:07",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-06-21 21:11",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-06-21 21:15",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-06-21 21:19",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 237692
+  },
+  {
+    "endTime" : "2021-06-21 21:20",
+    "artistName" : "Tropa do Bruxo",
+    "trackName" : "Oclin e Evoque",
+    "msPlayed" : 48062
+  },
+  {
+    "endTime" : "2021-06-21 21:21",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 60195
+  },
+  {
+    "endTime" : "2021-06-21 21:24",
+    "artistName" : "Cronixta",
+    "trackName" : "Deus É Mãe",
+    "msPlayed" : 20378
+  },
+  {
+    "endTime" : "2021-06-21 21:24",
+    "artistName" : "Cronixta",
+    "trackName" : "Deus É Mãe",
+    "msPlayed" : 201487
+  },
+  {
+    "endTime" : "2021-06-21 21:50",
+    "artistName" : "Duda Raupp",
+    "trackName" : "Janelas",
+    "msPlayed" : 45482
+  },
+  {
+    "endTime" : "2021-06-22 15:56",
+    "artistName" : "Duda Raupp",
+    "trackName" : "Janelas",
+    "msPlayed" : 159286
+  },
+  {
+    "endTime" : "2021-06-22 15:58",
+    "artistName" : "3030",
+    "trackName" : "Alma de Cigana - Acústico",
+    "msPlayed" : 149302
+  },
+  {
+    "endTime" : "2021-06-22 16:02",
+    "artistName" : "3030",
+    "trackName" : "Tempo de Se Amar - Acústico",
+    "msPlayed" : 214615
+  },
+  {
+    "endTime" : "2021-06-22 16:06",
+    "artistName" : "3030",
+    "trackName" : "Lunar - Acústico",
+    "msPlayed" : 240666
+  },
+  {
+    "endTime" : "2021-06-22 16:16",
+    "artistName" : "3030",
+    "trackName" : "Céu - Acústico",
+    "msPlayed" : 44198
+  },
+  {
+    "endTime" : "2021-06-23 15:21",
+    "artistName" : "L7NNON",
+    "trackName" : "Muro De Berlim (Papasessions#9)",
+    "msPlayed" : 65752
+  },
+  {
+    "endTime" : "2021-06-23 15:30",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica 11: Nada Mudou",
+    "msPlayed" : 600000
+  },
+  {
+    "endTime" : "2021-06-23 15:33",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Corte Americano",
+    "msPlayed" : 139534
+  },
+  {
+    "endTime" : "2021-06-23 15:35",
+    "artistName" : "Mc Poze do Rodo",
+    "trackName" : "Vida Louca",
+    "msPlayed" : 155675
+  },
+  {
+    "endTime" : "2021-06-23 15:39",
+    "artistName" : "L7NNON",
+    "trackName" : "Nada é pra sempre",
+    "msPlayed" : 229927
+  },
+  {
+    "endTime" : "2021-06-23 15:42",
+    "artistName" : "Djonga",
+    "trackName" : "Easy Money",
+    "msPlayed" : 191219
+  },
+  {
+    "endTime" : "2021-06-23 15:44",
+    "artistName" : "Orochi",
+    "trackName" : "Reis da Revoada",
+    "msPlayed" : 112091
+  },
+  {
+    "endTime" : "2021-06-23 15:44",
+    "artistName" : "Costa Gold",
+    "trackName" : "O Pai Tá On",
+    "msPlayed" : 7328
+  },
+  {
+    "endTime" : "2021-06-23 15:48",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-06-23 15:49",
+    "artistName" : "Orochi",
+    "trackName" : "Amor de Fim de Noite",
+    "msPlayed" : 24492
+  },
+  {
+    "endTime" : "2021-06-23 15:49",
+    "artistName" : "Kawe",
+    "trackName" : "Mds",
+    "msPlayed" : 64604
+  },
+  {
+    "endTime" : "2021-06-23 15:49",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 1124
+  },
+  {
+    "endTime" : "2021-06-23 15:53",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-06-23 15:54",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 36867
+  },
+  {
+    "endTime" : "2021-06-23 15:58",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-06-23 15:58",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Louco Pra Voltar - 2.0",
+    "msPlayed" : 3597
+  },
+  {
+    "endTime" : "2021-06-23 16:07",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #6: Era uma Vez",
+    "msPlayed" : 577819
+  },
+  {
+    "endTime" : "2021-06-23 16:11",
+    "artistName" : "Oriente",
+    "trackName" : "Mandona - Acústico",
+    "msPlayed" : 239999
+  },
+  {
+    "endTime" : "2021-06-23 16:15",
+    "artistName" : "Djonga",
+    "trackName" : "LEAL",
+    "msPlayed" : 212650
+  },
+  {
+    "endTime" : "2021-06-23 16:25",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #7: Céu Azul",
+    "msPlayed" : 572038
+  },
+  {
+    "endTime" : "2021-06-23 16:29",
+    "artistName" : "Oriente",
+    "trackName" : "Praia do Rosa - Acústico",
+    "msPlayed" : 256523
+  },
+  {
+    "endTime" : "2021-06-23 16:34",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica - Paris",
+    "msPlayed" : 141776
+  },
+  {
+    "endTime" : "2021-06-24 02:53",
+    "artistName" : "L7NNON",
+    "trackName" : "Muro De Berlim (Papasessions#9)",
+    "msPlayed" : 225365
+  },
+  {
+    "endTime" : "2021-06-24 02:56",
+    "artistName" : "BIN",
+    "trackName" : "Saturno",
+    "msPlayed" : 186947
+  },
+  {
+    "endTime" : "2021-06-24 02:59",
+    "artistName" : "Borges",
+    "trackName" : "Seu Lugar",
+    "msPlayed" : 162875
+  },
+  {
+    "endTime" : "2021-06-24 03:03",
+    "artistName" : "L7NNON",
+    "trackName" : "Probleminha Diário (Papasessions #7)",
+    "msPlayed" : 245625
+  },
+  {
+    "endTime" : "2021-06-24 03:07",
+    "artistName" : "Altamira",
+    "trackName" : "Acústico Altamira #13 - Amor",
+    "msPlayed" : 257316
+  },
+  {
+    "endTime" : "2021-06-24 03:18",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica 10: Recomeçar",
+    "msPlayed" : 682816
+  },
+  {
+    "endTime" : "2021-06-24 03:22",
+    "artistName" : "OIK",
+    "trackName" : "Pedaço de Mim",
+    "msPlayed" : 202318
+  },
+  {
+    "endTime" : "2021-06-24 03:24",
+    "artistName" : "Filipe Ret",
+    "trackName" : "War",
+    "msPlayed" : 152582
+  },
+  {
+    "endTime" : "2021-06-24 03:27",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Sem Graça",
+    "msPlayed" : 165365
+  },
+  {
+    "endTime" : "2021-06-24 03:32",
+    "artistName" : "Mãolee",
+    "trackName" : "MNB Quase Acústico #4 - Coisa Louca",
+    "msPlayed" : 276980
+  },
+  {
+    "endTime" : "2021-06-24 03:36",
+    "artistName" : "L7NNON",
+    "trackName" : "Perdição",
+    "msPlayed" : 275000
+  },
+  {
+    "endTime" : "2021-06-24 03:39",
+    "artistName" : "Drizzy",
+    "trackName" : "Altamira Session #1 - Perdendo Você",
+    "msPlayed" : 165000
+  },
+  {
+    "endTime" : "2021-06-24 03:44",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica Ep. Acabou",
+    "msPlayed" : 270000
+  },
+  {
+    "endTime" : "2021-06-24 03:46",
+    "artistName" : "Sodré",
+    "trackName" : "Só foi",
+    "msPlayed" : 144857
+  },
+  {
+    "endTime" : "2021-06-24 04:04",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #9: Melhor Forma",
+    "msPlayed" : 576576
+  },
+  {
+    "endTime" : "2021-07-03 14:11",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "No. 1 Party Anthem",
+    "msPlayed" : 243131
+  },
+  {
+    "endTime" : "2021-07-03 14:14",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Suck It and See",
+    "msPlayed" : 225986
+  },
+  {
+    "endTime" : "2021-07-03 14:18",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Fire And The Thud",
+    "msPlayed" : 237533
+  },
+  {
+    "endTime" : "2021-07-03 14:21",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "The Bakery",
+    "msPlayed" : 176520
+  },
+  {
+    "endTime" : "2021-07-03 14:24",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Mardy Bum",
+    "msPlayed" : 175440
+  },
+  {
+    "endTime" : "2021-07-03 14:28",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Snap Out Of It",
+    "msPlayed" : 193030
+  },
+  {
+    "endTime" : "2021-07-03 14:31",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Love is a Laserquest",
+    "msPlayed" : 191426
+  },
+  {
+    "endTime" : "2021-07-03 14:33",
+    "artistName" : "Arctic Monkeys",
+    "trackName" : "Cornerstone",
+    "msPlayed" : 103826
+  },
+  {
+    "endTime" : "2021-07-03 14:43",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica 11: Nada Mudou",
+    "msPlayed" : 600000
+  },
+  {
+    "endTime" : "2021-07-03 14:45",
+    "artistName" : "L7NNON",
+    "trackName" : "Muro De Berlim (Papasessions#9)",
+    "msPlayed" : 138344
+  },
+  {
+    "endTime" : "2021-07-03 14:50",
+    "artistName" : "3030",
+    "trackName" : "Ogum - Acústico",
+    "msPlayed" : 281685
+  },
+  {
+    "endTime" : "2021-07-03 14:55",
+    "artistName" : "3030",
+    "trackName" : "Leis Próprias - Acústico",
+    "msPlayed" : 300821
+  },
+  {
+    "endTime" : "2021-07-03 14:58",
+    "artistName" : "3030",
+    "trackName" : "Vai Lá - Acústico",
+    "msPlayed" : 203562
+  },
+  {
+    "endTime" : "2021-07-03 15:03",
+    "artistName" : "3030",
+    "trackName" : "Preciso Saber - Acústico",
+    "msPlayed" : 297365
+  },
+  {
+    "endTime" : "2021-07-03 15:08",
+    "artistName" : "3030",
+    "trackName" : "Homenagem a Vida - Acústico",
+    "msPlayed" : 291242
+  },
+  {
+    "endTime" : "2021-07-03 15:12",
+    "artistName" : "3030",
+    "trackName" : "Luz em Todo Morro - Acústico",
+    "msPlayed" : 280448
+  },
+  {
+    "endTime" : "2021-07-03 15:13",
+    "artistName" : "3030",
+    "trackName" : "Trismegisto - Acústico",
+    "msPlayed" : 61305
+  },
+  {
+    "endTime" : "2021-07-13 20:27",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-07-13 20:31",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Louco Pra Voltar - 2.0",
+    "msPlayed" : 239763
+  },
+  {
+    "endTime" : "2021-07-13 20:40",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #6: Era uma Vez",
+    "msPlayed" : 577819
+  },
+  {
+    "endTime" : "2021-07-13 21:49",
+    "artistName" : "Oriente",
+    "trackName" : "Mandona - Acústico",
+    "msPlayed" : 154646
+  },
+  {
+    "endTime" : "2021-07-14 13:18",
+    "artistName" : "Chris Cornell",
+    "trackName" : "As Hope And Promise Fade - Recorded Live At Queen Elizabeth Theatre, Toronto, ON on April 20, 2011",
+    "msPlayed" : 223311
+  },
+  {
+    "endTime" : "2021-07-14 13:22",
+    "artistName" : "Johnny Cash",
+    "trackName" : "Wayfaring Stranger",
+    "msPlayed" : 199960
+  },
+  {
+    "endTime" : "2021-07-14 13:25",
+    "artistName" : "Johnny Cash",
+    "trackName" : "In My Life",
+    "msPlayed" : 177000
+  },
+  {
+    "endTime" : "2021-07-14 13:27",
+    "artistName" : "Chuck Berry",
+    "trackName" : "Roll Over Beethoven",
+    "msPlayed" : 144600
+  },
+  {
+    "endTime" : "2021-07-14 13:28",
+    "artistName" : "Colter Wall",
+    "trackName" : "Cowpoke",
+    "msPlayed" : 63372
+  },
+  {
+    "endTime" : "2021-07-14 13:29",
+    "artistName" : "Jerry Lee Lewis",
+    "trackName" : "Great Balls Of Fire",
+    "msPlayed" : 57657
+  },
+  {
+    "endTime" : "2021-07-14 13:30",
+    "artistName" : "Johnny Cash",
+    "trackName" : "I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+    "msPlayed" : 4835
+  },
+  {
+    "endTime" : "2021-07-14 13:30",
+    "artistName" : "Patsy Cline",
+    "trackName" : "Crazy - Single Version",
+    "msPlayed" : 22353
+  },
+  {
+    "endTime" : "2021-07-14 13:33",
+    "artistName" : "Johnny Cash",
+    "trackName" : "Wayfaring Stranger",
+    "msPlayed" : 199960
+  },
+  {
+    "endTime" : "2021-07-14 13:35",
+    "artistName" : "Johnny Cash",
+    "trackName" : "I Won't Back Down",
+    "msPlayed" : 128200
+  },
+  {
+    "endTime" : "2021-07-14 13:36",
+    "artistName" : "Johnny Cash",
+    "trackName" : "Solitary Man",
+    "msPlayed" : 75686
+  },
+  {
+    "endTime" : "2021-07-14 13:39",
+    "artistName" : "Pink Floyd",
+    "trackName" : "Breathe (In the Air)",
+    "msPlayed" : 169534
+  },
+  {
+    "endTime" : "2021-07-14 13:44",
+    "artistName" : "Deep Purple",
+    "trackName" : "Love Don't Mean A Thing - 2009 Digital Remaster",
+    "msPlayed" : 264733
+  },
+  {
+    "endTime" : "2021-07-14 13:48",
+    "artistName" : "George Harrison",
+    "trackName" : "Let It Down - Original Guitar And Vocal / Remastered 2014",
+    "msPlayed" : 235826
+  },
+  {
+    "endTime" : "2021-07-14 13:59",
+    "artistName" : "Pink Floyd",
+    "trackName" : "Pigs (Three Different Ones)",
+    "msPlayed" : 685880
+  },
+  {
+    "endTime" : "2021-07-14 14:02",
+    "artistName" : "The Beatles",
+    "trackName" : "I Me Mine - Remastered 2009",
+    "msPlayed" : 145586
+  },
+  {
+    "endTime" : "2021-07-14 14:05",
+    "artistName" : "The Cure",
+    "trackName" : "Another Day",
+    "msPlayed" : 224093
+  },
+  {
+    "endTime" : "2021-07-14 14:40",
+    "artistName" : "Sex Pistols",
+    "trackName" : "Problems",
+    "msPlayed" : 76272
+  },
+  {
+    "endTime" : "2021-07-15 13:29",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Eu Não Sou Tão Bom Assim",
+    "msPlayed" : 242526
+  },
+  {
+    "endTime" : "2021-07-15 13:33",
+    "artistName" : "Filipe Ret",
+    "trackName" : "Louco Pra Voltar - 2.0",
+    "msPlayed" : 239763
+  },
+  {
+    "endTime" : "2021-07-15 13:39",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #6: Era uma Vez",
+    "msPlayed" : 358991
+  },
+  {
+    "endTime" : "2021-07-15 13:42",
+    "artistName" : "Luan Otten",
+    "trackName" : "5458",
+    "msPlayed" : 187629
+  },
+  {
+    "endTime" : "2021-07-15 13:45",
+    "artistName" : "Gloria Groove",
+    "trackName" : "A Tua Voz",
+    "msPlayed" : 195245
+  },
+  {
+    "endTime" : "2021-07-15 13:48",
+    "artistName" : "Alta Hits",
+    "trackName" : "Um Vinho e Um Nude",
+    "msPlayed" : 172710
+  },
+  {
+    "endTime" : "2021-07-15 13:53",
+    "artistName" : "TheFox",
+    "trackName" : "Complô",
+    "msPlayed" : 267732
+  },
+  {
+    "endTime" : "2021-07-15 13:57",
+    "artistName" : "MADÚ",
+    "trackName" : "O Jeito Que Cê Faz",
+    "msPlayed" : 245331
+  },
+  {
+    "endTime" : "2021-07-15 14:01",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica Ep. Acabou",
+    "msPlayed" : 270000
+  },
+  {
+    "endTime" : "2021-07-15 14:03",
+    "artistName" : "NALAH",
+    "trackName" : "Nós Dois",
+    "msPlayed" : 108194
+  },
+  {
+    "endTime" : "2021-07-15 14:06",
+    "artistName" : "BIAB",
+    "trackName" : "Corpo Suado",
+    "msPlayed" : 168610
+  },
+  {
+    "endTime" : "2021-07-15 14:09",
+    "artistName" : "Catha",
+    "trackName" : "Drama Queen",
+    "msPlayed" : 168294
+  },
+  {
+    "endTime" : "2021-07-15 14:11",
+    "artistName" : "Victor Sabri",
+    "trackName" : "Deixa pra Lá",
+    "msPlayed" : 157999
+  },
+  {
+    "endTime" : "2021-07-15 14:14",
+    "artistName" : "Tainá Seabra",
+    "trackName" : "Baby, Que Tal?",
+    "msPlayed" : 177400
+  },
+  {
+    "endTime" : "2021-07-15 14:16",
+    "artistName" : "Indy Naíse",
+    "trackName" : "Lírios",
+    "msPlayed" : 93846
+  },
+  {
+    "endTime" : "2021-07-15 14:17",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 80096
+  },
+  {
+    "endTime" : "2021-07-15 14:21",
+    "artistName" : "Djonga",
+    "trackName" : "Todo Errado (prod. Coyote Beatz)",
+    "msPlayed" : 197600
+  },
+  {
+    "endTime" : "2021-07-15 14:24",
+    "artistName" : "Djonga",
+    "trackName" : "Procuro Alguém (prod. Coyote Beatz)",
+    "msPlayed" : 213983
+  },
+  {
+    "endTime" : "2021-07-15 14:27",
+    "artistName" : "L7NNON",
+    "trackName" : "Abre a porta",
+    "msPlayed" : 142500
+  },
+  {
+    "endTime" : "2021-07-15 14:29",
+    "artistName" : "L7NNON",
+    "trackName" : "Berenice (Papasessions #6) [feat. CALIFFA]",
+    "msPlayed" : 142527
+  },
+  {
+    "endTime" : "2021-07-15 14:34",
+    "artistName" : "Nirvana",
+    "trackName" : "Smells Like Teen Spirit",
+    "msPlayed" : 301920
+  },
+  {
+    "endTime" : "2021-07-15 14:39",
+    "artistName" : "Jimi Hendrix",
+    "trackName" : "Voodoo Child (Slight Return)",
+    "msPlayed" : 313373
+  },
+  {
+    "endTime" : "2021-07-15 14:45",
+    "artistName" : "Metallica",
+    "trackName" : "Enter Sandman",
+    "msPlayed" : 331266
+  },
+  {
+    "endTime" : "2021-07-15 14:48",
+    "artistName" : "KISS",
+    "trackName" : "Rock And Roll All Nite",
+    "msPlayed" : 168840
+  },
+  {
+    "endTime" : "2021-07-15 14:52",
+    "artistName" : "Fleetwood Mac",
+    "trackName" : "Dreams",
+    "msPlayed" : 254453
+  },
+  {
+    "endTime" : "2021-07-15 14:59",
+    "artistName" : "David Bowie",
+    "trackName" : "Rebel Rebel - 2016 Remaster",
+    "msPlayed" : 218143
+  },
+  {
+    "endTime" : "2021-07-15 15:03",
+    "artistName" : "The Romantics",
+    "trackName" : "What I Like About You",
+    "msPlayed" : 175400
+  },
+  {
+    "endTime" : "2021-07-15 15:06",
+    "artistName" : "The Clash",
+    "trackName" : "Train in Vain (Stand by Me) - Remastered",
+    "msPlayed" : 189973
+  },
+  {
+    "endTime" : "2021-07-15 15:09",
+    "artistName" : "Edie Brickell & New Bohemians",
+    "trackName" : "What I Am",
+    "msPlayed" : 181053
+  },
+  {
+    "endTime" : "2021-07-15 15:10",
+    "artistName" : "Heart",
+    "trackName" : "Barracuda",
+    "msPlayed" : 56189
+  },
+  {
+    "endTime" : "2021-07-15 15:16",
+    "artistName" : "Guns N' Roses",
+    "trackName" : "Sweet Child O' Mine",
+    "msPlayed" : 356066
+  },
+  {
+    "endTime" : "2021-07-15 15:27",
+    "artistName" : "Van Halen",
+    "trackName" : "Jump - 2015 Remaster",
+    "msPlayed" : 212905
+  },
+  {
+    "endTime" : "2021-07-18 17:52",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "De Todas As Coisas",
+    "msPlayed" : 33899
+  },
+  {
+    "endTime" : "2021-07-18 17:56",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "Sol Que Faltava - Ao Vivo",
+    "msPlayed" : 235660
+  },
+  {
+    "endTime" : "2021-07-18 17:59",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "Coisa Linda - Ao Vivo",
+    "msPlayed" : 190399
+  },
+  {
+    "endTime" : "2021-07-18 18:02",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "Mil Razões - Ao Vivo",
+    "msPlayed" : 207075
+  },
+  {
+    "endTime" : "2021-07-18 18:06",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "Eu Errei - Ao Vivo",
+    "msPlayed" : 249999
+  },
+  {
+    "endTime" : "2021-07-18 18:09",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "De Todas as Coisas - Ao Vivo",
+    "msPlayed" : 162577
+  },
+  {
+    "endTime" : "2021-07-18 18:12",
+    "artistName" : "Tiago Iorc",
+    "trackName" : "Mulher - Ao Vivo",
+    "msPlayed" : 147039
+  },
+  {
+    "endTime" : "2021-07-18 18:12",
+    "artistName" : "The Kinks",
+    "trackName" : "Come On Now",
+    "msPlayed" : 28171
+  },
+  {
+    "endTime" : "2021-07-18 18:13",
+    "artistName" : "The Velvet Underground",
+    "trackName" : "Pale Blue Eyes",
+    "msPlayed" : 51332
+  },
+  {
+    "endTime" : "2021-07-18 18:17",
+    "artistName" : "Velvet Revolver",
+    "trackName" : "Slither",
+    "msPlayed" : 248306
+  },
+  {
+    "endTime" : "2021-07-18 18:18",
+    "artistName" : "Velvet Revolver",
+    "trackName" : "Fall to Pieces",
+    "msPlayed" : 69305
+  },
+  {
+    "endTime" : "2021-07-18 18:29",
+    "artistName" : "Slipknot",
+    "trackName" : "Duality",
+    "msPlayed" : 172714
+  },
+  {
+    "endTime" : "2021-07-18 18:31",
+    "artistName" : "Korn",
+    "trackName" : "Here to Stay",
+    "msPlayed" : 147081
+  },
+  {
+    "endTime" : "2021-07-18 18:33",
+    "artistName" : "Pineapple StormTv",
+    "trackName" : "Poesia Acústica #9: Melhor Forma",
+    "msPlayed" : 19597
+  },
+  {
+    "endTime" : "2021-07-18 18:33",
+    "artistName" : "Cronixta",
+    "trackName" : "Deus É Mãe",
+    "msPlayed" : 98799
+  },
+  {
+    "endTime" : "2021-07-18 18:36",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-07-18 18:36",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 5995
+  },
+  {
+    "endTime" : "2021-07-18 18:40",
+    "artistName" : "Djonga",
+    "trackName" : "Nós",
+    "msPlayed" : 193799
+  },
+  {
+    "endTime" : "2021-07-18 18:43",
+    "artistName" : "Djonga",
+    "trackName" : "Ó Quem Chega",
+    "msPlayed" : 222219
+  },
+  {
+    "endTime" : "2021-07-18 18:47",
+    "artistName" : "Djonga",
+    "trackName" : "Xapralá",
+    "msPlayed" : 228631
+  },
+  {
+    "endTime" : "2021-07-18 18:51",
+    "artistName" : "Djonga",
+    "trackName" : "Vírgula",
+    "msPlayed" : 19788
+  },
+  {
+    "endTime" : "2021-07-18 18:51",
+    "artistName" : "Djonga",
+    "trackName" : "Me dá a Mão",
+    "msPlayed" : 210418
+  },
+  {
+    "endTime" : "2021-07-18 18:55",
+    "artistName" : "Djonga",
+    "trackName" : "O Cara de Óculos (prod. Coyote Beatz)",
+    "msPlayed" : 250016
+  },
+  {
+    "endTime" : "2021-07-18 18:58",
+    "artistName" : "Djonga",
+    "trackName" : "Não Sei Rezar (prod. Coyote Beatz)",
+    "msPlayed" : 183210
+  },
+  {
+    "endTime" : "2021-07-18 19:01",
+    "artistName" : "Djonga",
+    "trackName" : "Oto Patamá (prod. Coyote Beatz)",
+    "msPlayed" : 162534
+  },
+  {
+    "endTime" : "2021-07-20 00:35",
+    "artistName" : "Norah Jones",
+    "trackName" : "Peace",
+    "msPlayed" : 229706
+  },
+  {
+    "endTime" : "2021-07-20 00:38",
+    "artistName" : "Norah Jones",
+    "trackName" : "Come Away With Me",
+    "msPlayed" : 198586
+  },
+  {
+    "endTime" : "2021-07-20 00:42",
+    "artistName" : "Norah Jones",
+    "trackName" : "After The Fall",
+    "msPlayed" : 222280
+  },
+  {
+    "endTime" : "2021-07-20 00:46",
+    "artistName" : "Norah Jones",
+    "trackName" : "Heaven Above",
+    "msPlayed" : 256146
+  },
+  {
+    "endTime" : "2021-07-20 00:50",
+    "artistName" : "Norah Jones",
+    "trackName" : "Burn",
+    "msPlayed" : 279226
+  },
+  {
+    "endTime" : "2021-07-20 00:54",
+    "artistName" : "Norah Jones",
+    "trackName" : "Stumble On My Way",
+    "msPlayed" : 233346
+  },
+  {
+    "endTime" : "2021-07-20 01:00",
+    "artistName" : "Norah Jones",
+    "trackName" : "Fleurette Africaine (African Flower)",
+    "msPlayed" : 321986
+  },
+  {
+    "endTime" : "2021-07-20 01:15",
+    "artistName" : "Norah Jones",
+    "trackName" : "Come Away With Me",
+    "msPlayed" : 1322
+  },
+  {
+    "endTime" : "2021-07-20 01:23",
+    "artistName" : "Norah Jones",
+    "trackName" : "After The Fall",
+    "msPlayed" : 1066
+  },
+  {
+    "endTime" : "2021-07-20 13:03",
+    "artistName" : "Gustavo Bertoni",
+    "trackName" : "Old Ghosts, New Skin",
+    "msPlayed" : 243223
+  },
+  {
+    "endTime" : "2021-07-20 13:06",
+    "artistName" : "ZAYN",
+    "trackName" : "Better",
+    "msPlayed" : 174516
+  },
+  {
+    "endTime" : "2021-07-20 13:09",
+    "artistName" : "James Bay",
+    "trackName" : "Us - Recorded at Metropolis Studios, London",
+    "msPlayed" : 183093
+  },
+  {
+    "endTime" : "2021-07-20 13:12",
+    "artistName" : "Miley Cyrus",
+    "trackName" : "Angels Like You",
+    "msPlayed" : 196453
+  },
+  {
+    "endTime" : "2021-07-20 13:15",
+    "artistName" : "Giveon",
+    "trackName" : "Heartbreak Anniversary",
+    "msPlayed" : 198370
+  },
+  {
+    "endTime" : "2021-07-20 13:19",
+    "artistName" : "Bruno Major",
+    "trackName" : "Old Soul",
+    "msPlayed" : 186666
+  },
+  {
+    "endTime" : "2021-07-20 13:23",
+    "artistName" : "Billie Eilish",
+    "trackName" : "Your Power",
+    "msPlayed" : 245896
+  },
+  {
+    "endTime" : "2021-07-20 13:26",
+    "artistName" : "Gustavo Bertoni",
+    "trackName" : "Be Here Now",
+    "msPlayed" : 219133
+  },
+  {
+    "endTime" : "2021-07-20 13:29",
+    "artistName" : "Alaina Castillo",
+    "trackName" : "just a boy",
+    "msPlayed" : 185681
+  },
+  {
+    "endTime" : "2021-07-20 13:32",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Off My Face",
+    "msPlayed" : 156467
+  },
+  {
+    "endTime" : "2021-07-20 13:35",
+    "artistName" : "Lana Del Rey",
+    "trackName" : "Let Me Love You Like A Woman",
+    "msPlayed" : 200661
+  },
+  {
+    "endTime" : "2021-07-20 13:38",
+    "artistName" : "John Mayer",
+    "trackName" : "Carry Me Away",
+    "msPlayed" : 159134
+  },
+  {
+    "endTime" : "2021-07-20 13:43",
+    "artistName" : "Norah Jones",
+    "trackName" : "Were You Watching?",
+    "msPlayed" : 316853
+  },
+  {
+    "endTime" : "2021-07-20 13:47",
+    "artistName" : "Conan Gray",
+    "trackName" : "Heather",
+    "msPlayed" : 198040
+  },
+  {
+    "endTime" : "2021-07-20 13:50",
+    "artistName" : "Sam Smith",
+    "trackName" : "Kids Again",
+    "msPlayed" : 207528
+  },
+  {
+    "endTime" : "2021-07-20 13:54",
+    "artistName" : "Niall Horan",
+    "trackName" : "Lover - Recorded at Air Studios, London",
+    "msPlayed" : 239076
+  },
+  {
+    "endTime" : "2021-07-20 13:58",
+    "artistName" : "AURORA",
+    "trackName" : "Runaway",
+    "msPlayed" : 248826
+  },
+  {
+    "endTime" : "2021-07-20 14:02",
+    "artistName" : "Cody Simpson",
+    "trackName" : "golden thing",
+    "msPlayed" : 219300
+  },
+  {
+    "endTime" : "2021-07-20 14:05",
+    "artistName" : "Leon Bridges",
+    "trackName" : "Motorbike",
+    "msPlayed" : 188617
+  },
+  {
+    "endTime" : "2021-07-20 14:09",
+    "artistName" : "WATTS",
+    "trackName" : "Feels (feat. Khalid)",
+    "msPlayed" : 221974
+  },
+  {
+    "endTime" : "2021-07-20 14:13",
+    "artistName" : "Ariana Grande",
+    "trackName" : "Stuck with U (with Justin Bieber)",
+    "msPlayed" : 228482
+  },
+  {
+    "endTime" : "2021-07-20 14:16",
+    "artistName" : "John Legend",
+    "trackName" : "U Move, I Move (feat. Jhene Aiko)",
+    "msPlayed" : 223933
+  },
+  {
+    "endTime" : "2021-07-20 14:19",
+    "artistName" : "FINNEAS",
+    "trackName" : "What They'll Say About Us",
+    "msPlayed" : 187601
+  },
+  {
+    "endTime" : "2021-07-20 14:23",
+    "artistName" : "Leah Nobel",
+    "trackName" : "Over the Moon",
+    "msPlayed" : 208881
+  },
+  {
+    "endTime" : "2021-07-20 14:25",
+    "artistName" : "Justin Bieber",
+    "trackName" : "Lonely (with benny blanco)",
+    "msPlayed" : 149297
+  },
+  {
+    "endTime" : "2021-07-20 14:29",
+    "artistName" : "Travis",
+    "trackName" : "All Fall Down",
+    "msPlayed" : 207533
+  },
+  {
+    "endTime" : "2021-07-20 14:32",
+    "artistName" : "Sebastian Yatra",
+    "trackName" : "My Only One (No Hay Nadie Más)",
+    "msPlayed" : 198280
+  },
+  {
+    "endTime" : "2021-07-20 14:36",
+    "artistName" : "Lauv",
+    "trackName" : "Modern Loneliness - acoustic",
+    "msPlayed" : 252681
+  },
+  {
+    "endTime" : "2021-07-20 14:40",
+    "artistName" : "Bryce Vine",
+    "trackName" : "Problems (feat. Grady)",
+    "msPlayed" : 203084
+  },
+  {
+    "endTime" : "2021-07-20 14:43",
+    "artistName" : "Sasha Alex Sloan",
+    "trackName" : "Hypochondriac",
+    "msPlayed" : 202453
+  },
+  {
+    "endTime" : "2021-07-20 14:47",
+    "artistName" : "John Legend",
+    "trackName" : "Conversations in the Dark",
+    "msPlayed" : 237426
+  },
+  {
+    "endTime" : "2021-07-20 14:50",
+    "artistName" : "Noah Cyrus",
+    "trackName" : "July",
+    "msPlayed" : 156106
+  },
+  {
+    "endTime" : "2021-07-20 14:52",
+    "artistName" : "Tessa Violet",
+    "trackName" : "Words Ain't Enough",
+    "msPlayed" : 124365
+  },
+  {
+    "endTime" : "2021-07-20 14:55",
+    "artistName" : "Kevin Garrett",
+    "trackName" : "Factor In",
+    "msPlayed" : 207026
+  },
+  {
+    "endTime" : "2021-07-20 15:00",
+    "artistName" : "Yebba",
+    "trackName" : "Distance",
+    "msPlayed" : 255794
+  },
+  {
+    "endTime" : "2021-07-20 15:03",
+    "artistName" : "PJ Harding",
+    "trackName" : "You Belong To Somebody Else",
+    "msPlayed" : 199144
+  },
+  {
+    "endTime" : "2021-07-20 15:07",
+    "artistName" : "Passenger",
+    "trackName" : "Let Her Go (Acoustic Version)",
+    "msPlayed" : 266613
+  },
+  {
+    "endTime" : "2021-07-20 15:11",
+    "artistName" : "Ali Gatie",
+    "trackName" : "It's You",
+    "msPlayed" : 212606
+  },
+  {
+    "endTime" : "2021-07-20 15:12",
+    "artistName" : "Demi Lovato",
+    "trackName" : "Still Have Me",
+    "msPlayed" : 67858
+  },
+  {
+    "endTime" : "2021-07-20 15:13",
+    "artistName" : "ZAYN",
+    "trackName" : "Dusk Till Dawn (feat. Sia) - Radio Edit",
+    "msPlayed" : 32902
+  },
+  {
+    "endTime" : "2021-07-20 15:16",
+    "artistName" : "Passenger",
+    "trackName" : "Sword from the Stone",
+    "msPlayed" : 201720
+  },
+  {
+    "endTime" : "2021-07-20 15:20",
+    "artistName" : "Passenger",
+    "trackName" : "Simple Song",
+    "msPlayed" : 228480
+  },
+  {
+    "endTime" : "2021-07-20 15:23",
+    "artistName" : "Passenger",
+    "trackName" : "The Way That I Love You - single version",
+    "msPlayed" : 159761
+  },
+  {
+    "endTime" : "2021-07-20 15:27",
+    "artistName" : "Passenger",
+    "trackName" : "Let Her Go (Acoustic Version)",
+    "msPlayed" : 266613
+  },
+  {
+    "endTime" : "2021-07-20 15:30",
+    "artistName" : "Passenger",
+    "trackName" : "Sword from the Stone - Gingerbread Mix",
+    "msPlayed" : 168940
+  },
+  {
+    "endTime" : "2021-07-20 15:33",
+    "artistName" : "Passenger",
+    "trackName" : "London in the Spring - Acoustic",
+    "msPlayed" : 176093
+  },
+  {
+    "endTime" : "2021-07-20 15:36",
+    "artistName" : "Passenger",
+    "trackName" : "Remember to Forget",
+    "msPlayed" : 218666
+  },
+  {
+    "endTime" : "2021-07-20 15:40",
+    "artistName" : "Passenger",
+    "trackName" : "Simple Song",
+    "msPlayed" : 228480
+  },
+  {
+    "endTime" : "2021-07-20 15:45",
+    "artistName" : "Passenger",
+    "trackName" : "Survivors - Acoustic",
+    "msPlayed" : 269015
+  },
+  {
+    "endTime" : "2021-07-20 15:48",
+    "artistName" : "Passenger",
+    "trackName" : "Hell Or High Water",
+    "msPlayed" : 220468
+  },
+  {
+    "endTime" : "2021-07-20 15:52",
+    "artistName" : "Passenger",
+    "trackName" : "A Song for the Drunk and Broken Hearted",
+    "msPlayed" : 239240
+  },
+  {
+    "endTime" : "2021-07-20 15:57",
+    "artistName" : "Passenger",
+    "trackName" : "Nothing Aches Like a Broken Heart",
+    "msPlayed" : 256253
+  },
+  {
+    "endTime" : "2021-07-20 16:01",
+    "artistName" : "Passenger",
+    "trackName" : "The Long Road",
+    "msPlayed" : 232199
+  },
+  {
+    "endTime" : "2021-07-20 16:05",
+    "artistName" : "Passenger",
+    "trackName" : "Life's for the Living",
+    "msPlayed" : 273560
+  },
+  {
+    "endTime" : "2021-07-20 16:09",
+    "artistName" : "Passenger",
+    "trackName" : "Setting Suns - Live from Spotify London",
+    "msPlayed" : 251605
+  },
+  {
+    "endTime" : "2021-07-20 16:13",
+    "artistName" : "Passenger",
+    "trackName" : "Anywhere",
+    "msPlayed" : 216206
+  },
+  {
+    "endTime" : "2021-07-20 16:16",
+    "artistName" : "Passenger",
+    "trackName" : "What You're Thinking",
+    "msPlayed" : 174613
+  },
+  {
+    "endTime" : "2021-07-20 16:19",
+    "artistName" : "Passenger",
+    "trackName" : "Holes",
+    "msPlayed" : 213173
+  },
+  {
+    "endTime" : "2021-07-20 16:23",
+    "artistName" : "Passenger",
+    "trackName" : "Catch in the Dark",
+    "msPlayed" : 208906
+  },
+  {
+    "endTime" : "2021-07-20 16:26",
+    "artistName" : "Passenger",
+    "trackName" : "I See Love",
+    "msPlayed" : 185293
+  },
+  {
+    "endTime" : "2021-07-20 16:31",
+    "artistName" : "Passenger",
+    "trackName" : "Travelling Alone",
+    "msPlayed" : 304730
+  },
+  {
+    "endTime" : "2021-07-20 16:34",
+    "artistName" : "Passenger",
+    "trackName" : "Fear of Fear",
+    "msPlayed" : 178698
+  },
+  {
+    "endTime" : "2021-07-20 16:38",
+    "artistName" : "Passenger",
+    "trackName" : "Young as the Morning Old as the Sea",
+    "msPlayed" : 206091
+  },
+  {
+    "endTime" : "2021-07-20 16:41",
+    "artistName" : "Passenger",
+    "trackName" : "Heart To Love",
+    "msPlayed" : 197666
+  },
+  {
+    "endTime" : "2021-07-20 16:44",
+    "artistName" : "Passenger",
+    "trackName" : "The Boy Who Cried Wolf",
+    "msPlayed" : 195313
+  },
+  {
+    "endTime" : "2021-07-20 16:49",
+    "artistName" : "Passenger",
+    "trackName" : "Ghost Town",
+    "msPlayed" : 313362
+  },
+  {
+    "endTime" : "2021-07-20 16:53",
+    "artistName" : "Passenger",
+    "trackName" : "Eagle Bear Buffalo",
+    "msPlayed" : 204253
+  },
+  {
+    "endTime" : "2021-07-20 16:57",
+    "artistName" : "Passenger",
+    "trackName" : "Heart's on Fire",
+    "msPlayed" : 253160
+  },
+  {
+    "endTime" : "2021-07-20 17:02",
+    "artistName" : "Passenger",
+    "trackName" : "To Be Free",
+    "msPlayed" : 287808
+  },
+  {
+    "endTime" : "2021-07-20 17:05",
+    "artistName" : "Passenger",
+    "trackName" : "I'll Be Your Man",
+    "msPlayed" : 191386
+  },
+  {
+    "endTime" : "2021-07-20 17:08",
+    "artistName" : "Passenger",
+    "trackName" : "Let's Go",
+    "msPlayed" : 194719
+  },
+  {
+    "endTime" : "2021-07-20 17:12",
+    "artistName" : "Passenger",
+    "trackName" : "Fast Car (Cover)",
+    "msPlayed" : 235812
+  },
+  {
+    "endTime" : "2021-07-20 17:15",
+    "artistName" : "Passenger",
+    "trackName" : "Why Can't I Change",
+    "msPlayed" : 191332
+  },
+  {
+    "endTime" : "2021-07-20 17:19",
+    "artistName" : "Passenger",
+    "trackName" : "Beautiful Birds (feat. Birdy)",
+    "msPlayed" : 213706
+  },
+  {
+    "endTime" : "2021-07-20 17:22",
+    "artistName" : "Passenger",
+    "trackName" : "He Leaves You Cold",
+    "msPlayed" : 201680
+  },
+  {
+    "endTime" : "2021-07-20 17:25",
+    "artistName" : "Passenger",
+    "trackName" : "Runaway",
+    "msPlayed" : 190344
+  },
+  {
+    "endTime" : "2021-07-20 17:29",
+    "artistName" : "Passenger",
+    "trackName" : "Shape of Love",
+    "msPlayed" : 188453
+  },
+  {
+    "endTime" : "2021-07-20 17:32",
+    "artistName" : "Passenger",
+    "trackName" : "Rolling Stone",
+    "msPlayed" : 202771
+  },
+  {
+    "endTime" : "2021-07-20 17:35",
+    "artistName" : "Passenger",
+    "trackName" : "A Kindly Reminder",
+    "msPlayed" : 163365
+  },
+  {
+    "endTime" : "2021-07-20 17:40",
+    "artistName" : "Passenger",
+    "trackName" : "Hotel California (Cover)",
+    "msPlayed" : 284971
+  },
+  {
+    "endTime" : "2021-07-20 17:44",
+    "artistName" : "Passenger",
+    "trackName" : "When We Were Young",
+    "msPlayed" : 280414
+  },
+  {
+    "endTime" : "2021-07-20 17:48",
+    "artistName" : "Passenger",
+    "trackName" : "Whispers",
+    "msPlayed" : 242030
+  },
+  {
+    "endTime" : "2021-07-20 17:53",
+    "artistName" : "Passenger",
+    "trackName" : "Lanterns - Live from Spotify London",
+    "msPlayed" : 287786
+  },
+  {
+    "endTime" : "2021-07-20 18:10",
+    "artistName" : "Passenger",
+    "trackName" : "All the Little Lights",
+    "msPlayed" : 151338
+  },
+  {
+    "endTime" : "2021-07-20 18:48",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Can I Believe You",
+    "msPlayed" : 244186
+  },
+  {
+    "endTime" : "2021-07-20 18:52",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Mykonos",
+    "msPlayed" : 275306
+  },
+  {
+    "endTime" : "2021-07-20 18:55",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "White Winter Hymnal",
+    "msPlayed" : 147026
+  },
+  {
+    "endTime" : "2021-07-20 18:58",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "If You Need To, Keep Time on Me",
+    "msPlayed" : 210506
+  },
+  {
+    "endTime" : "2021-07-20 19:02",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Sunblind",
+    "msPlayed" : 253613
+  },
+  {
+    "endTime" : "2021-07-20 19:07",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "On Another Ocean (January / June)",
+    "msPlayed" : 263373
+  },
+  {
+    "endTime" : "2021-07-20 19:10",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Maestranza",
+    "msPlayed" : 183373
+  },
+  {
+    "endTime" : "2021-07-20 19:15",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Helplessness Blues",
+    "msPlayed" : 303386
+  },
+  {
+    "endTime" : "2021-07-20 19:19",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "A Long Way Past The Past",
+    "msPlayed" : 239666
+  },
+  {
+    "endTime" : "2021-07-20 19:23",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Blue Ridge Mountains",
+    "msPlayed" : 265773
+  },
+  {
+    "endTime" : "2021-07-20 19:28",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Jara",
+    "msPlayed" : 249320
+  },
+  {
+    "endTime" : "2021-07-20 19:33",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Ragged Wood",
+    "msPlayed" : 307213
+  },
+  {
+    "endTime" : "2021-07-20 19:36",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Tiger Mountain Peasant Song",
+    "msPlayed" : 208973
+  },
+  {
+    "endTime" : "2021-07-20 19:39",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "- Naiads, Cassadies",
+    "msPlayed" : 190560
+  },
+  {
+    "endTime" : "2021-07-20 19:43",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Montezuma",
+    "msPlayed" : 216604
+  },
+  {
+    "endTime" : "2021-07-20 19:47",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Featherweight",
+    "msPlayed" : 230813
+  },
+  {
+    "endTime" : "2021-07-20 19:52",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Fool's Errand",
+    "msPlayed" : 288413
+  },
+  {
+    "endTime" : "2021-07-20 20:00",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "Third of May / Ōdaigahara",
+    "msPlayed" : 525426
+  },
+  {
+    "endTime" : "2021-07-20 20:04",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "I'm Not My Season",
+    "msPlayed" : 191400
+  },
+  {
+    "endTime" : "2021-07-20 20:32",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "The Shrine / An Argument",
+    "msPlayed" : 345373
+  }
+]

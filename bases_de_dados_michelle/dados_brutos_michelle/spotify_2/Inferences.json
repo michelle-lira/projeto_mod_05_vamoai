@@ -1,0 +1,25 @@
+{
+  "inferences": [
+    "1P_Custom_AT&T_Switchers",
+    "1P_Custom_Discovery_Streamers",
+    "1P_Custom_EE_Switchers",
+    "1P_Custom_O2_Switchers",
+    "1P_Custom_Samsung_Podcast_Streamers",
+    "1P_Custom_Samsung_samsungTablet_12M_Users",
+    "1P_Custom_Samsung_samsungTablet_4Y_Users",
+    "1P_Custom_Stress_Busters",
+    "1P_Custom_T-Mobile_Switchers",
+    "1P_Custom_ThreeUK_Switchers",
+    "1P_Custom_Vodafone_Switchers",
+    "Parenting",
+    "Podcasts",
+    "Premiumbusiness_Free_Trial-Eligible",
+    "Recaptcha_scores_filtered",
+    "Streaming_Age_14DayOrNull_Filter",
+    "TEST_DONOTUSE_1P_Podcast_Category_Fitness_And_Nutrition",
+    "TEST_DONOTUSE_1P_Podcast_Category_Health_And_Wellness",
+    "podcast-audience-segmentation-rules-engagement-daypart-afternoon",
+    "podcast-audience-segmentation-rules-engagement-device-tablet",
+    "podcast-audience-segmentation-rules-format-length-long"
+  ]
+}

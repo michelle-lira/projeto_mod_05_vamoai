@@ -1,0 +1,374 @@
+{
+  "tracks": [
+    {
+      "artist": "Norah Jones",
+      "album": "Midnight Jones",
+      "track": "After The Fall",
+      "uri": "spotify:track:21A89akXi8hZhGDJ35cO3b"
+    },
+    {
+      "artist": "Slipknot",
+      "album": "Vol. 3: The Subliminal Verses",
+      "track": "Duality",
+      "uri": "spotify:track:61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "artist": "Tiago Iorc",
+      "album": "Troco Likes Ao Vivo",
+      "track": "Mulher - Ao Vivo",
+      "uri": "spotify:track:0CXu3SkRSw3BdtGZqbejeL"
+    },
+    {
+      "artist": "Filipe Ret",
+      "album": "Ilusão",
+      "track": "Ilusão",
+      "uri": "spotify:track:3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "artist": "Patsy Cline",
+      "album": "Showcase",
+      "track": "Crazy - Single Version",
+      "uri": "spotify:track:3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "artist": "Djonga",
+      "album": "NU",
+      "track": "Ó Quem Chega",
+      "uri": "spotify:track:44ZdoxTkahuMolWGb4B28Z"
+    },
+    {
+      "artist": "Jerry Lee Lewis",
+      "album": "The Golden Rock Hits Of Jerry Lee Lewis",
+      "track": "Great Balls Of Fire",
+      "uri": "spotify:track:5UvE5QlINnvEc7aFO14DVL"
+    },
+    {
+      "artist": "Korn",
+      "album": "Untouchables",
+      "track": "Here To Stay",
+      "uri": "spotify:track:66LT15XEqCaWiMG44NGQRE"
+    },
+    {
+      "artist": "Djonga",
+      "album": "Heresia",
+      "track": "Esquimó",
+      "uri": "spotify:track:0LMO2d7QubdqrRXuQGvtfQ"
+    },
+    {
+      "artist": "Cronixta",
+      "album": "Deus É Mãe",
+      "track": "Deus É Mãe",
+      "uri": "spotify:track:3Dg2veXscjlS2rTTE8YOwV"
+    },
+    {
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "track": "Chop Suey!",
+      "uri": "spotify:track:2DlHlPMa4M17kufBvI2lEN"
+    },
+    {
+      "artist": "The Kinks",
+      "album": "Kinda Kinks",
+      "track": "Come On Now",
+      "uri": "spotify:track:0jC2XPH7vnNK5ol0bfC8Zs"
+    },
+    {
+      "artist": "Orgânico",
+      "album": "Dizeres",
+      "track": "Dizeres",
+      "uri": "spotify:track:3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "artist": "Marcelo D2",
+      "album": "Nada Pode Me Parar",
+      "track": "Você Diz Que O Amor Não Dói",
+      "uri": "spotify:track:1KsNJwx1ABD5IiQh4kfOoj"
+    },
+    {
+      "artist": "Pineapple StormTv",
+      "album": "Como Só Você no Mundo",
+      "track": "Como Só Você no Mundo",
+      "uri": "spotify:track:6xHOTFAZMLbPNOVf9Rzxb8"
+    },
+    {
+      "artist": "Djonga",
+      "album": "NU",
+      "track": "Nós",
+      "uri": "spotify:track:1yHEBmkI2j3lhlVLU8yuTl"
+    },
+    {
+      "artist": "Djonga",
+      "album": "Easy Money",
+      "track": "Easy Money",
+      "uri": "spotify:track:29MtvMn1yovT22Gxq2XvYV"
+    },
+    {
+      "artist": "Makalister",
+      "album": "Mal dos Trópikos, Construindo a Ponte da Prata Roubada",
+      "track": "Quando as Sombras Brilharem",
+      "uri": "spotify:track:2q1GDmLxh96RSHJRJhP249"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Norah Jones",
+      "album": "Classic Jones",
+      "uri": "spotify:album:4CYITgeTMhc7NHyiTwV9hC"
+    },
+    {
+      "artist": "Criolo",
+      "album": "Criolo E Emicida Ao Vivo",
+      "uri": "spotify:album:3xfZtthn2dlFtFfyyYKEf8"
+    },
+    {
+      "artist": "Johnny Cash",
+      "album": "American III: Solitary Man",
+      "uri": "spotify:album:2zCyI9fuV5JrQzrO3kMwbw"
+    },
+    {
+      "artist": "Black Sabbath",
+      "album": "Heaven & Hell",
+      "uri": "spotify:album:0Dj2B19o99FcJii6aPvMTr"
+    },
+    {
+      "artist": "Black Sabbath",
+      "album": "Master of Reality",
+      "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+    },
+    {
+      "artist": "Djonga",
+      "album": "NU",
+      "uri": "spotify:album:1BGWFAkM0Oz88Dq7v369eP"
+    },
+    {
+      "artist": "Djonga",
+      "album": "Histórias da Minha Área",
+      "uri": "spotify:album:3dCALWYm5dnvz0SS8kRi2k"
+    },
+    {
+      "artist": "Motörhead",
+      "album": "Stay Clean (Sound check at Newcastle City Hall, 30/3/1981)",
+      "uri": "spotify:album:2nsWIAnbBEXfPWtiwdTgLj"
+    },
+    {
+      "artist": "Norah Jones",
+      "album": "Midnight Jones",
+      "uri": "spotify:album:3kpeKSfKLSGSH8xeYjayfg"
+    },
+    {
+      "artist": "Tiago Iorc",
+      "album": "Acústico MTV Tiago Iorc",
+      "uri": "spotify:album:3Tf4vmSc5PYcpmwZUSLEJV"
+    },
+    {
+      "artist": "Norah Jones",
+      "album": "Late Night Jones",
+      "uri": "spotify:album:2jjEQctJ9F5RntK95vbSrk"
+    },
+    {
+      "artist": "Chris Cornell",
+      "album": "Songbook",
+      "uri": "spotify:album:24QtdNLprYc0U57zdMcQoc"
+    },
+    {
+      "artist": "Tiago Iorc",
+      "album": "Troco Likes Ao Vivo",
+      "uri": "spotify:album:7H1YuQLC6lmpcqgKhZncU1"
+    },
+    {
+      "artist": "Motörhead",
+      "album": "Overkill",
+      "uri": "spotify:album:5iw08epzFaKtmX3y2vRVU6"
+    },
+    {
+      "artist": "Cronixta",
+      "album": "Deus É Mãe",
+      "uri": "spotify:album:4LcaijrTed6AzcGP9rN9Kc"
+    },
+    {
+      "artist": "Coyote Beatz",
+      "album": "Best Seller Of Djonga (Instrumentals)",
+      "uri": "spotify:album:12AEv0Hld0QR0azgPm2kKY"
+    },
+    {
+      "artist": "Makalister",
+      "album": "Laura Muller Mixtape",
+      "uri": "spotify:album:7cesmhmhfwkpMGHvnfRGnr"
+    },
+    {
+      "artist": "Black Sabbath",
+      "album": "Black Sabbath",
+      "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+    },
+    {
+      "artist": "slsd",
+      "album": "Olhos Abertos, Bocas Fechadas - EP",
+      "uri": "spotify:album:7zfTsLHZjOUUstGNSWHlk2"
+    },
+    {
+      "artist": "Iron Maiden",
+      "album": "The Writing On The Wall",
+      "uri": "spotify:album:36ZBN6U0ENDWl6MsfBFdxN"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "3030",
+      "uri": "spotify:artist:3OHpci0ruhvaMv9F795LR5"
+    },
+    {
+      "name": "ADL",
+      "uri": "spotify:artist:6Ywb1no2hXLazjIs4LUiQD"
+    },
+    {
+      "name": "Aerosmith",
+      "uri": "spotify:artist:7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+      "name": "Antonio Vivaldi",
+      "uri": "spotify:artist:2QOIawHpSlOwXDvSqQ9YJR"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "name": "BK",
+      "uri": "spotify:artist:1YOVBTvznjiDvtAj4ExHeo"
+    },
+    {
+      "name": "Baco Exu do Blues",
+      "uri": "spotify:artist:78nr1pVnDR7qZH6QbVMYZf"
+    },
+    {
+      "name": "Beirut",
+      "uri": "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    },
+    {
+      "name": "Black Sabbath",
+      "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+    },
+    {
+      "name": "Budah",
+      "uri": "spotify:artist:08zSkHjCY3ypH4gdBVHWgO"
+    },
+    {
+      "name": "Coyote Beatz",
+      "uri": "spotify:artist:2PhFsxtwCQLS3e9SJwDN3j"
+    },
+    {
+      "name": "Criolo",
+      "uri": "spotify:artist:37ZflmHTdxkSLQuT8w9NBs"
+    },
+    {
+      "name": "Cronixta",
+      "uri": "spotify:artist:5BGPgNyveXI7oJlXOVuSWc"
+    },
+    {
+      "name": "Djonga",
+      "uri": "spotify:artist:204IwDdaHE4ymGk9Kya2pY"
+    },
+    {
+      "name": "Don L",
+      "uri": "spotify:artist:6U98XWjrUPnPtPBjEprDmu"
+    },
+    {
+      "name": "Fleet Foxes",
+      "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+    },
+    {
+      "name": "Foo Fighters",
+      "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    {
+      "name": "Froid",
+      "uri": "spotify:artist:45Yz90pqjzEdJzpEQg1eII"
+    },
+    {
+      "name": "Hozier",
+      "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+    },
+    {
+      "name": "Johnny Cash",
+      "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+    },
+    {
+      "name": "Low Roar",
+      "uri": "spotify:artist:5WoWlP0ihSFIxnppxjwSgE"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "uri": "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+    },
+    {
+      "name": "Makalister",
+      "uri": "spotify:artist:1RoerHIsbQo1h0V8KpznKV"
+    },
+    {
+      "name": "Malibu",
+      "uri": "spotify:artist:0PMk31f9Log4ixwUUY40p6"
+    },
+    {
+      "name": "Motörhead",
+      "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    },
+    {
+      "name": "Norah Jones",
+      "uri": "spotify:artist:2Kx7MNY7cI1ENniW7vT30N"
+    },
+    {
+      "name": "Passenger",
+      "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+    },
+    {
+      "name": "Pearl Jam",
+      "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
+      "name": "Planta E Raiz",
+      "uri": "spotify:artist:5fKHm5RVUWIIirTGZlwGeO"
+    },
+    {
+      "name": "Racionais MC's",
+      "uri": "spotify:artist:29CQLw9uLWsl8Qkz9holfr"
+    },
+    {
+      "name": "Rael",
+      "uri": "spotify:artist:0GWNKI3VPEcJsOIEhUjmxd"
+    },
+    {
+      "name": "Sant",
+      "uri": "spotify:artist:7IlBcKrGUBJ0NKdnbDde89"
+    },
+    {
+      "name": "Soundgarden",
+      "uri": "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
+    },
+    {
+      "name": "Stone Temple Pilots",
+      "uri": "spotify:artist:2UazAtjfzqBF0Nho2awK4z"
+    },
+    {
+      "name": "Tiago Iorc",
+      "uri": "spotify:artist:4iWkwAVzssjb8XgxdoOL6M"
+    },
+    {
+      "name": "Vance Joy",
+      "uri": "spotify:artist:10exVja0key0uqUkk6LJRT"
+    },
+    {
+      "name": "Velvet Revolver",
+      "uri": "spotify:artist:7CHilrn81OdYjkh4uSVnYM"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
