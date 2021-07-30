@@ -20,16 +20,19 @@
 
 ### Michelle Lira | Análise dos Dados do Ifood:
 ![Dashboard Ifood - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Ifood-Michelle.png)
-
+---
 
 ### Isabela Oliveira | Análise dos Dados da Netflix:
 ![**Link do perfil no Tableau Public**](https://public.tableau.com/views/Dashboard-VAMOA/DashboardBasededadosdaNetflix?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
+![Dashboard Netflix - Isabela](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dashboard-netflix-isabela.png)
+---
 
 ### Luzivan Lira | Análise dos Dados do Google Maps:
 ![**Link do perfil no Tableau Public**](https://public.tableau.com/views/VamoAi5/Painel1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
-
+![Dashboard Maps - Luzivan](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dashboard-maps-luzivan.png)
+---
 
 ## Referências 🔗
 
