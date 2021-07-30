@@ -48,7 +48,8 @@ Construí um com meus dados do iFood, como extra.
 
 
 ### Michelle Lira | Análise dos Dados do iFood:
-![Dashboard Ifood - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Spotify-Michelle.png)
+![Dashboard Ifood - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Ifood-Michelle.png)
+
 ---
 
 ### Isabela Oliveira | Análise dos Dados da Netflix:
