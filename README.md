@@ -16,7 +16,7 @@ Construir um storytelling baseado nos nossos dados produzidos via aplicativos, p
 
 ## Grupo 01 | Talk is cheap. Show me the data!
 
-Fazendo uma analogia à frase do brilhante Linus Torvald: "Talk is cheap. Show me the code",
+Fazendo uma analogia à frase do brilhante Linus Torvalds: "Talk is cheap. Show me the code",
 escolhemos o título do nosso Storytelling.
 Faremos uma autodescoberta através dos dados.
 
