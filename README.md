@@ -1,14 +1,43 @@
-# Data Reporting
+# Projeto Módulo 05: Data Reporting 📊
 Último projeto da formação Analista de Dados #VamoAI | Uma parceria Ifood & Resilia Educação
-
-## Objetivo:
-
 
 ## Ferramentas Utilizadas:
 
+>Scrum e Kanban    
+>Trello     
+>Jupyter Notebook     
+>Python (Matplotlib, Numpy, Pandas, Seaborn e Wordcloud)     
+>Tableau      
 
-## Grupo 01 | Talk is cheap. Show me the data! 📊
+## Objetivo:
 
+Construir um storytelling baseado nos nossos dados produzidos via aplicativos, para apresentarmos um pouco da personalidade de cada integrante.
+
+
+## Grupo 01 | Talk is cheap. Show me the data!
+
+Fazendo uma analogia à frase do brilhante Linus Torvald: "Talk is cheap. Show me the code",
+escolhemos o título do nosso Storytelling.
+Faremos uma autodescoberta através dos dados.
+
+![](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/slides/abertura.png)
+
+
+![](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/slides/apresentacao-2.png)
+
+## Contexto:
+
+Segundo o relatório do 2º trimestre de 2021 da App Annie, divulgado pela Forbes em 17/07, o Brasil é o país     
+no mundo que mais passa tempo utilizando aplicativos.
+
+![](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/slides/mobile.png)
+
+Como pessoas co-produtoras desta imensidão de dados, o nosso grupo decidiu checar o que sabemos sobre nossos gostos e perfis.
+Cada um de nós escolheu um app principal para análise.
+
+Construí um com meus dados do iFood, como extra.
+
+![](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/slides/apresentacao-3.png)
 
 ## Dashboards
 
@@ -18,7 +47,7 @@
 ![Dashboard Spotify - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Spotify-Michelle.png)
 
 
-### Michelle Lira | Análise dos Dados do Ifood:
+### Michelle Lira | Análise dos Dados do iFood:
 ![Dashboard Ifood - Michelle](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/Dash-Ifood-Michelle.png)
 ---
 
@@ -33,6 +62,26 @@
 
 ![Dashboard Maps - Luzivan](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dashboard-maps-luzivan.png)
 ---
+
+## Conclusão
+
+Após analisar os dados percebi que posso até ser eclética, mas ultimamente estou com os dois pés no rap.     
+Deixei um QR Code com o meu perfil do Spotify, caso vocês queiram conhecer melhor minhas playlists públicas.      
+A Isa é uma crítica de filmes de terror e suspense com muito bom gosto! Assistam os melhor avaliados por ela!      
+E o Luzivan tem muitas histórias pra contar dos km rodados por São Paulo, aliás bem mais km do que ele imaginava.       
+
+Sigam os nossos perfis nas redes sociais e aqui no Github e se você gostou do nosso projeto dê uma estrela para       
+o repositório, além do seu feedback.       
+
+Nos divertimos bastante executando o projeto, apesar da correria e de todos os desafios.        
+Esperamos que você se divirta tambémao ver o resultado do nosso trabalho.        
+
+Sugestões e críticas construtivas são bem-vindas.        
+
+Encerramos o curso com a sensação de total transformação em relação a 6 meses atrás.       
+__Agora é esperar pela formatura e pelos novos desafios!__ 🦾       
+
+![](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/figure/tumblr_m51fwnrflL1r5u9izo1_500.gif)
 
 ## Referências 🔗
 
