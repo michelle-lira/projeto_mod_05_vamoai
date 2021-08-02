@@ -57,6 +57,7 @@ Construí um com meus dados do iFood, como extra.
 **![e no Github](https://github.com/isaolivlima)**
 
 ![Dashboard Netflix - Isabela](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dashboard-netflix-isabela.png)
+
 ---
 
 ### Luzivan Lira | Análise dos Dados do Google Maps:
@@ -64,6 +65,7 @@ Construí um com meus dados do iFood, como extra.
 **![e no Github](https://github.com/luzivan-lira)**
 
 ![Dashboard Maps - Luzivan](https://github.com/michelle-lira/projeto_mod_05_vamoai/blob/main/images_readme/dashboards/dashboard-maps-luzivan.png)
+
 ---
 
 ## Conclusão
